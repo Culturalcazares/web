@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Landing page for Culturalcázares Festival",
   "scripts": {
-    "start": "http-server web -p 8080 -c-1"
+    "start": "http-server src -p 8080 -c-1"
   },
   "devDependencies": {
     "http-server": "^14.1.1"
