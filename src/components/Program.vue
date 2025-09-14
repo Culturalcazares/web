@@ -22,6 +22,16 @@ function handleTimeChange(event: Event) {
     store.setTimeFilter(selectedTime || null)
   }
 }
+
+// Filter to format dates to HH:MM format
+function formatTime(date: Date): string {
+  if (!(date instanceof Date)) return ''
+  return (
+    date.getHours().toString().padStart(2, '0') +
+    ':' +
+    date.getMinutes().toString().padStart(2, '0')
+  )
+}
 </script>
 
 <template>
@@ -63,7 +73,9 @@ function handleTimeChange(event: Event) {
                 @change="handleTimeChange"
               >
                 <option :value="null" selected>Sin filtro</option>
-                <option v-for="time in store.times" :value="time.toString()">{{ time }}</option>
+                <option v-for="time in store.times" :value="time.toString()">
+                  {{ formatTime(time) }}
+                </option>
               </select>
               <label for="floatingSelect">Horario</label>
             </div>
@@ -87,7 +99,8 @@ function handleTimeChange(event: Event) {
                 <h5 class="card-title">{{ activity.title }}</h5>
                 <h6 class="card-subtitle mb-2 text-muted">{{ activity.organizer }}</h6>
                 <p class="card-text mt-4">
-                  <i class="bi bi-clock"></i> {{ activity.date.start }} - {{ activity.date.end }}
+                  <i class="bi bi-clock"></i> {{ formatTime(activity.date.start) }} -
+                  {{ formatTime(activity.date.end) }}
                   <br />
                   <i class="bi bi-geo-alt"></i> {{ activity.place }}
                 </p>
