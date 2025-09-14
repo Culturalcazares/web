@@ -1,11 +1,10 @@
 <script setup lang="ts">
 import Header from './components/Header.vue'
 import Footer from './components/Footer.vue'
-import {useActivityStore} from "@/stores/activity.ts";
+import { useActivityStore } from '@/stores/activity.ts'
 
 const activityStore = useActivityStore()
 activityStore.load()
-
 </script>
 
 <template>

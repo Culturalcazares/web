@@ -1,29 +1,27 @@
 <script setup lang="ts">
-
-import {useActivityStore} from "@/stores/activity.ts";
+import { useActivityStore } from '@/stores/activity.ts'
 
 const store = useActivityStore()
 
 function handleTagChange(event: Event) {
-  const tagText = event.target.value;
+  const tagText = event.target ? (event.target as HTMLInputElement).value : null
   if (tagText === null) {
-    store.setTagFilter(null);
+    store.setTagFilter(null)
   } else {
-    const selectedTag = Array.from(store.tags).find(tag => tag.text === tagText);
-    store.setTagFilter(selectedTag || null);
+    const selectedTag = Array.from(store.tags).find((tag) => tag.text === tagText)
+    store.setTagFilter(selectedTag || null)
   }
 }
 
 function handleTimeChange(event: Event) {
-  const timeValue = event.target.value;
+  const timeValue = event.target ? (event.target as HTMLInputElement).value : null
   if (timeValue === null) {
-    store.setTimeFilter(null);
+    store.setTimeFilter(null)
   } else {
-    const selectedTime = Array.from(store.times).find(time => time.toString() === timeValue);
-    store.setTimeFilter(selectedTime || null);
+    const selectedTime = Array.from(store.times).find((time) => time.toString() === timeValue)
+    store.setTimeFilter(selectedTime || null)
   }
 }
-
 </script>
 
 <template>
@@ -44,7 +42,12 @@ function handleTimeChange(event: Event) {
         <div class="row justify-content-center">
           <div class="col-md-4">
             <div class="form-floating">
-              <select class="form-select" id="type-select" aria-label="Type select" @change="handleTagChange">
+              <select
+                class="form-select"
+                id="type-select"
+                aria-label="Type select"
+                @change="handleTagChange"
+              >
                 <option :value="null" selected>Sin filtro</option>
                 <option v-for="tag in store.tags" :value="tag.text">{{ tag.text }}</option>
               </select>
@@ -53,7 +56,12 @@ function handleTimeChange(event: Event) {
           </div>
           <div class="col-md-4">
             <div class="form-floating">
-              <select class="form-select" id="time-select" aria-label="Type select" @change="handleTimeChange">
+              <select
+                class="form-select"
+                id="time-select"
+                aria-label="Type select"
+                @change="handleTimeChange"
+              >
                 <option :value="null" selected>Sin filtro</option>
                 <option v-for="time in store.times" :value="time.toString()">{{ time }}</option>
               </select>
@@ -69,7 +77,12 @@ function handleTimeChange(event: Event) {
               <img :src="activity.image" class="card-img-top bg-light" alt="Actividad" />
               <div class="card-body">
                 <p>
-                  <span class="badge" v-for="tag in activity.tags" :style="{'background-color':tag.color}">{{ tag.text }}</span>
+                  <span
+                    class="badge"
+                    v-for="tag in activity.tags"
+                    :style="{ 'background-color': tag.color }"
+                    >{{ tag.text }}</span
+                  >
                 </p>
                 <h5 class="card-title">{{ activity.title }}</h5>
                 <h6 class="card-subtitle mb-2 text-muted">{{ activity.organizer }}</h6>

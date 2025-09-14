@@ -1,4 +1,4 @@
 export type Tag = {
-  text: string,
+  text: string
   color: string
 }
