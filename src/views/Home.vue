@@ -4,7 +4,6 @@ import Divider from '@/components/Divider.vue'
 import MerchanBanner from '@/components/MerchanBanner.vue'
 import Program from '@/components/Program.vue'
 import Sponsors from '@/components/Sponsors.vue'
-
 </script>
 
 <template>

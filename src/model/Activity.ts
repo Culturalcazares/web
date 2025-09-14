@@ -1,5 +1,5 @@
-import type {ActivityDate} from "@/model/ActivityDate.ts";
-import type {Tag} from "@/model/Tag.ts";
+import type { ActivityDate } from '@/model/ActivityDate.ts'
+import type { Tag } from '@/model/Tag.ts'
 
 export type Activity = {
   id: string
