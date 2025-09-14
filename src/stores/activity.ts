@@ -5,7 +5,8 @@ import type { Tag } from '@/model/Tag.ts'
 
 export const useActivityStore = defineStore('activity', () => {
   const activities: Ref<Activity[]> = ref([])
-  const tags: Ref<Set<Tag>> = ref(new Set<Tag>())
+  const tagsMap: Ref<Map<string, Tag>> = ref(new Map<string, Tag>())
+  const tags: Ref<Set<Tag>> = computed(() => new Set(tagsMap.value.values()))
   const times: Ref<Set<Date>> = ref(new Set<Date>())
 
   const filters = ref<{
@@ -18,6 +19,7 @@ export const useActivityStore = defineStore('activity', () => {
 
   function load() {
     activities.value = []
+    tagsMap.value.clear()
 
     fetch('/data.json')
       .then((res) => res.json())
@@ -37,7 +39,7 @@ export const useActivityStore = defineStore('activity', () => {
 
         activitiesData.forEach((activity) => {
           activity.tags.forEach((tag) => {
-            tags.value.add(tag)
+            tagsMap.value.set(tag.text, tag)
           })
           times.value.add(activity.date.start)
         })
