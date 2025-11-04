@@ -39,11 +39,11 @@ function formatTime(date: Date): string {
     <div class="container py-5">
       <h2 class="fs-1 mb-4 order-0">Programa</h2>
 
-      <div v-if="store.activities">
+      <div v-if="!store.activities || store.activities.length === 0">
         <div class="row mb-5">
           <div class="col text-center">
             <h3>No hay actividades publicadas.</h3>
-            <p>¿Te interesa participar? Mándanos un email a <a href="mailto:">info@culturalcazares.es</a></p>
+            <p>¿Te interesa participar? Mándanos un email a <a href="mailto:info@culturalcazares.es">info@culturalcazares.es</a></p>
           </div>
         </div>
       </div>

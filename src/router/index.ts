@@ -12,18 +12,23 @@ const router = createRouter({
     {
       path: '/como-llegar',
       name: 'location',
-      component: () => import('../views/Location.vue'),
+      component: () => import('../views/LocationView.vue'),
     },
     {
       path: '/somos',
       name: 'about',
-      component: () => import('../views/About.vue'),
+      component: () => import('../views/AboutView.vue'),
     },
     {
       path: '/merchandising',
       name: 'merchandising',
-      component: () => import('../views/Merchandising.vue'),
+      component: () => import('../views/MerchandisingView.vue'),
     },
+    {
+      path: '/patrocinadores',
+      name: 'sponsors',
+      component: () => import('../views/SponsorsView.vue')
+    }
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) {

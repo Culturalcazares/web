@@ -1,4 +1,5 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+</script>
 
 <template>
   <div class="container py-5">
@@ -7,7 +8,9 @@
         <h2 class="fs-1">Compra nuestra camiseta</h2>
       </div>
       <div class="col-md-3">
-        <img class="img-fluid" src="/images/camiseta.png" alt="Camiseta" />
+        <RouterLink :to="{ name: 'merchandising' }">
+          <img class="img-fluid" src="/images/camiseta.png" alt="Camiseta" />
+        </RouterLink>
       </div>
     </div>
   </div>
