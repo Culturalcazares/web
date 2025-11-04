@@ -38,72 +38,83 @@ function formatTime(date: Date): string {
   <div id="program">
     <div class="container py-5">
       <h2 class="fs-1 mb-4 order-0">Programa</h2>
-      <a
-        class="btn btn-sm btn-outline-primary m-0"
-        data-bs-toggle="collapse"
-        href="#filters"
-        role="button"
-        aria-expanded="false"
-        aria-controls="filters"
-      >
-        <i class="bi bi-filter" /> Filtrar
-      </a>
-      <div class="collapse card p-3 mb-4" id="filters">
-        <div class="row justify-content-center">
-          <div class="col-md-4">
-            <div class="form-floating">
-              <select
-                class="form-select"
-                id="type-select"
-                aria-label="Type select"
-                @change="handleTagChange"
-              >
-                <option :value="null" selected>Sin filtro</option>
-                <option v-for="tag in store.tags" :value="tag.text">{{ tag.text }}</option>
-              </select>
-              <label for="floatingSelect">Tipo de actividad</label>
-            </div>
-          </div>
-          <div class="col-md-4">
-            <div class="form-floating">
-              <select
-                class="form-select"
-                id="time-select"
-                aria-label="Type select"
-                @change="handleTimeChange"
-              >
-                <option :value="null" selected>Sin filtro</option>
-                <option v-for="time in store.times" :value="time.toString()">
-                  {{ formatTime(time) }}
-                </option>
-              </select>
-              <label for="floatingSelect">Horario</label>
-            </div>
+
+      <div v-if="store.activities">
+        <div class="row mb-5">
+          <div class="col text-center">
+            <h3>No hay actividades publicadas.</h3>
+            <p>¿Te interesa participar? Mándanos un email a <a href="mailto:">info@culturalcazares.es</a></p>
           </div>
         </div>
       </div>
-      <div>
-        <div class="row mt-2">
-          <div class="col-md-4 mb-4" v-for="activity in store.filteredActivities">
-            <div class="card">
-              <img :src="activity.image" class="card-img-top bg-light" alt="Actividad" />
-              <div class="card-body">
-                <p>
-                  <span
-                    class="badge"
-                    v-for="tag in activity.tags"
-                    :style="{ 'background-color': tag.color }"
-                    >{{ tag.text }}</span
-                  >
-                </p>
-                <h5 class="card-title">{{ activity.title }}</h5>
-                <h6 class="card-subtitle mb-2 text-muted">{{ activity.organizer }}</h6>
-                <p class="card-text mt-4">
-                  <i class="bi bi-clock"></i> {{ formatTime(activity.date.start) }} -
-                  {{ formatTime(activity.date.end) }}
-                  <br />
-                  <i class="bi bi-geo-alt"></i> {{ activity.place }}
-                </p>
+      <div v-else>
+        <a
+          class="btn btn-sm btn-outline-primary m-0"
+          data-bs-toggle="collapse"
+          href="#filters"
+          role="button"
+          aria-expanded="false"
+          aria-controls="filters"
+        >
+          <i class="bi bi-filter" /> Filtrar
+        </a>
+        <div class="collapse card p-3 mb-4" id="filters">
+          <div class="row justify-content-center">
+            <div class="col-md-4">
+              <div class="form-floating">
+                <select
+                  class="form-select"
+                  id="type-select"
+                  aria-label="Type select"
+                  @change="handleTagChange"
+                >
+                  <option :value="null" selected>Sin filtro</option>
+                  <option v-for="tag in store.tags" :value="tag.text">{{ tag.text }}</option>
+                </select>
+                <label for="floatingSelect">Tipo de actividad</label>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="form-floating">
+                <select
+                  class="form-select"
+                  id="time-select"
+                  aria-label="Type select"
+                  @change="handleTimeChange"
+                >
+                  <option :value="null" selected>Sin filtro</option>
+                  <option v-for="time in store.times" :value="time.toString()">
+                    {{ formatTime(time) }}
+                  </option>
+                </select>
+                <label for="floatingSelect">Horario</label>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div class="row mt-2">
+            <div class="col-md-4 mb-4" v-for="activity in store.filteredActivities">
+              <div class="card">
+                <img :src="activity.image" class="card-img-top bg-light" alt="Actividad" />
+                <div class="card-body">
+                  <p>
+                    <span
+                      class="badge"
+                      v-for="tag in activity.tags"
+                      :style="{ 'background-color': tag.color }"
+                      >{{ tag.text }}</span
+                    >
+                  </p>
+                  <h5 class="card-title">{{ activity.title }}</h5>
+                  <h6 class="card-subtitle mb-2 text-muted">{{ activity.organizer }}</h6>
+                  <p class="card-text mt-4">
+                    <i class="bi bi-clock"></i> {{ formatTime(activity.date.start) }} -
+                    {{ formatTime(activity.date.end) }}
+                    <br />
+                    <i class="bi bi-geo-alt"></i> {{ activity.place }}
+                  </p>
+                </div>
               </div>
             </div>
           </div>
