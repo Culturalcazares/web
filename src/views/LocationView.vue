@@ -24,7 +24,7 @@
         <h3 class="fs-5">Línea LB2 (nocturno)</h3>
         <p>Parada Rio Bullaque (Parque Alcazares)</p>
 
-        <p>Mas información en <a href="https://unauto.es/">Unauto</a></p>
+        <p>Mas información en <a href="https://unauto.es/" target="_blank">Unauto</a></p>
       </div>
       <div class="col-md-4">
         <div class="ratio ratio-4x3">
