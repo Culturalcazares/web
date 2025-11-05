@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// Footer component
+// WebFooter component
 </script>
 
 <template>

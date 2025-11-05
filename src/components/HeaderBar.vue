@@ -1,5 +1,5 @@
 <script setup lang="ts">
-// Header component
+// HeaderBar component
 </script>
 
 <template>

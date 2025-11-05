@@ -28,6 +28,11 @@ const router = createRouter({
       path: '/patrocinadores',
       name: 'sponsors',
       component: () => import('../views/SponsorsView.vue')
+    },
+    {
+      path: '/actividades/:id',
+      name: 'activity',
+      component: () => import('../views/ActivityDetailView.vue')
     }
   ],
   scrollBehavior(to, from, savedPosition) {

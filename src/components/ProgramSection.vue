@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import { useActivityStore } from '@/stores/activity.ts'
+import ActivityCard from "@/components/ActivityCard.vue";
 
 const store = useActivityStore()
 
@@ -69,7 +70,7 @@ function formatTime(date: Date): string {
                   @change="handleTagChange"
                 >
                   <option :value="null" selected>Sin filtro</option>
-                  <option v-for="tag in store.tags" :value="tag.text">{{ tag.text }}</option>
+                  <option v-for="tag in store.tags" :key="tag.text" :value="tag.text">{{ tag.text }}</option>
                 </select>
                 <label for="floatingSelect">Tipo de actividad</label>
               </div>
@@ -83,7 +84,7 @@ function formatTime(date: Date): string {
                   @change="handleTimeChange"
                 >
                   <option :value="null" selected>Sin filtro</option>
-                  <option v-for="time in store.times" :value="time.toString()">
+                  <option v-for="time in store.times" :key="time.toDateString()" :value="time.toString()">
                     {{ formatTime(time) }}
                   </option>
                 </select>
@@ -94,28 +95,8 @@ function formatTime(date: Date): string {
         </div>
         <div>
           <div class="row mt-2">
-            <div class="col-md-4 mb-4" v-for="activity in store.filteredActivities">
-              <div class="card">
-                <img :src="activity.image" class="card-img-top bg-light" alt="Actividad" />
-                <div class="card-body">
-                  <p>
-                    <span
-                      class="badge"
-                      v-for="tag in activity.tags"
-                      :style="{ 'background-color': tag.color }"
-                      >{{ tag.text }}</span
-                    >
-                  </p>
-                  <h5 class="card-title">{{ activity.title }}</h5>
-                  <h6 class="card-subtitle mb-2 text-muted">{{ activity.organizer }}</h6>
-                  <p class="card-text mt-4">
-                    <i class="bi bi-clock"></i> {{ formatTime(activity.date.start) }} -
-                    {{ formatTime(activity.date.end) }}
-                    <br />
-                    <i class="bi bi-geo-alt"></i> {{ activity.place }}
-                  </p>
-                </div>
-              </div>
+            <div class="col-md-4 mb-4" v-for="activity in store.filteredActivities" :key="activity.id">
+              <activity-card :activity="activity" />
             </div>
           </div>
         </div>

@@ -9,4 +9,6 @@ export type Activity = {
   date: ActivityDate
   place: string
   tags: Tag[]
+  description: string
+  link: string
 }

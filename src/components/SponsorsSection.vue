@@ -11,7 +11,9 @@ const store = useSponsorStore()
     <div v-if="store.sponsors && store.sponsors.length > 0">
       <div class="row">
         <div class="col" v-for="sponsor in store.sponsors" :key="sponsor.id">
-          <img class="img-fluid" src="/images/logo.png" alt="Patrocinador" />
+          <a :href="sponsor.link" target="_blank">
+            <img class="img-fluid" src="/images/logo.png" alt="Patrocinador" />
+          </a>
         </div>
       </div>
     </div>

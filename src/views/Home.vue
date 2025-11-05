@@ -1,20 +1,20 @@
 <script setup lang="ts">
-import Banner from '@/components/Banner.vue'
-import Divider from '@/components/Divider.vue'
+import HeaderBanner from '@/components/HeaderBanner.vue'
+import SectionDivider from '@/components/SectionDivider.vue'
 import MerchanBanner from '@/components/MerchanBanner.vue'
-import Program from '@/components/Program.vue'
-import Sponsors from '@/components/Sponsors.vue'
+import ProgramSection from '@/components/ProgramSection.vue'
+import SponsorsSection from '@/components/SponsorsSection.vue'
 </script>
 
 <template>
   <div>
-    <Banner />
-    <Divider />
+    <HeaderBanner />
+    <SectionDivider />
     <MerchanBanner />
-    <Divider />
-    <Program />
-    <Divider />
-    <Sponsors />
-    <Divider />
+    <SectionDivider />
+    <ProgramSection />
+    <SectionDivider />
+    <SponsorsSection />
+    <SectionDivider />
   </div>
 </template>

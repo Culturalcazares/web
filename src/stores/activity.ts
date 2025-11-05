@@ -68,14 +68,19 @@ export const useActivityStore = defineStore('activity', () => {
     })
   })
 
+  const getActivityById = (id: string): Activity | null => {
+    return activities.value.find(activity => activity.id === id) || null;
+  }
+
   return {
     activities,
     filteredActivities,
     tags,
     times,
     filters,
+    load,
     setTagFilter,
     setTimeFilter,
-    load,
+    getActivityById
   }
 })

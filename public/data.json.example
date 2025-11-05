@@ -15,7 +15,9 @@
           "text": "Concierto",
           "color": "#ffc107"
         }
-      ]
+      ],
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim orci ut libero lacinia, iaculis consequat elit luctus. Ut porttitor aliquet sem, eget tempus nunc pretium fermentum. Ut eget libero purus. Nullam sit amet massa dolor. Aenean ultrices urna ultricies, iaculis nibh eget, feugiat velit. Sed a magna id tortor ornare elementum. Sed ornare, elit et tincidunt faucibus, sapien neque ultrices erat, in viverra nisl dolor condimentum neque. Morbi mattis eros sit amet purus pellentesque, non aliquet nulla tincidunt.",
+      "link": "https://forms.gle/FHYyq5kfbJQMMSNP9"
     }
   ],
   "sponsors": [
