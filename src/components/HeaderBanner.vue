@@ -9,7 +9,7 @@
       >
         <h1 class="text-white main-text text-center">Parque de los Alcázares</h1>
         <h2 class="text-white secondary-text text-center">Sta. María de Benquerencia</h2>
-        <h3 class="date-text text-center">25 de Octubre 2026</h3>
+        <h3 class="date-text text-center">24 de Octubre 2026</h3>
       </div>
       <div id="image-container" class="col-md-6 order-1 order-md-2">
         <img class="img-main" src="@/assets/images/lata.png" alt="Lata" />
