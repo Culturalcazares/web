@@ -5,10 +5,10 @@
   <div class="container py-4 my-4">
     <div class="row">
       <div class="col">
-        <img class="img-fluid" src="/images/camiseta.png" alt="Camiseta" />
+        <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
       </div>
       <div class="col">
-        <img class="img-fluid" src="/images/camiseta.png" alt="Camiseta" />
+        <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
       </div>
     </div>
     <h1 class="my-4">¡Compra nuestro merchan!</h1>

@@ -21,3 +21,4 @@ sponsorStore.load()
     <WebFooter />
   </div>
 </template>
+

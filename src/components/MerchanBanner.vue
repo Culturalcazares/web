@@ -9,7 +9,7 @@
       </div>
       <div class="col-md-3">
         <RouterLink :to="{ name: 'merchandising' }">
-          <img class="img-fluid" src="/images/camiseta.png" alt="Camiseta" />
+          <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
         </RouterLink>
       </div>
     </div>
