@@ -8,7 +8,7 @@
       <div class="container">
         <!-- Logo -->
         <a class="navbar-brand d-flex align-items-center" href="/">
-          <img class="img-fluid navbar-logo" src="/images/logo.png" alt="Logo" />
+          <img class="img-fluid navbar-logo" src="@/assets/images/logo.png" alt="Logo" />
         </a>
 
         <!-- Mobile toggle button -->

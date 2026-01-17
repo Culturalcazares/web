@@ -3,7 +3,7 @@
 <template>
   <div class="container py-4 my-4">
     <h1 class="mb-4">Somos Culturalcázares</h1>
-    <img class="img-fluid" src="/images/logo.png" alt="Logo" />
+    <img class="img-fluid" src="@/assets/images/logo.png" alt="Logo" />
     <p>
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim orci ut libero lacinia, iaculis consequat elit luctus. Ut porttitor aliquet sem, eget tempus nunc pretium fermentum. Ut eget libero purus. Nullam sit amet massa dolor. Aenean ultrices urna ultricies, iaculis nibh eget, feugiat velit. Sed a magna id tortor ornare elementum. Sed ornare, elit et tincidunt faucibus, sapien neque ultrices erat, in viverra nisl dolor condimentum neque. Morbi mattis eros sit amet purus pellentesque, non aliquet nulla tincidunt.
     </p>
