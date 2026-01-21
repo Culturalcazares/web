@@ -44,7 +44,7 @@ function formatTime(date: Date): string {
         <div class="row mb-5">
           <div class="col text-center">
             <h3>No hay actividades publicadas.</h3>
-            <p>¿Te interesa participar? Mándanos un email a <a href="mailto:info@culturalcazares.es">info@culturalcazares.es</a></p>
+            <p>¿Te interesa participar? Mándanos un email a <a href="mailto:culturalcazares.fest@gmail.com">culturalcazares.fest@gmail.com</a></p>
           </div>
         </div>
       </div>
