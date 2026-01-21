@@ -22,7 +22,7 @@
 #banner {
   height: calc(100vh - 66px);
   background-color: rgb(92, 124, 182);
-  font-family: var(--abeezee), sans-serif;
+  font-family: var(--jellee), sans-serif;
 }
 
 .main-text {
