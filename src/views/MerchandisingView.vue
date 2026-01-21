@@ -2,24 +2,35 @@
 </script>
 
 <template>
-  <div class="container py-4 my-4">
-    <div class="row">
-      <div class="col">
-        <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
+  <div class="container py-5 my-5">
+    <div class="row align-items-center mb-5">
+      <div class="col-md-6 mb-4 mb-md-0 text-center">
+        <div class="row g-2">
+          <div class="col-6">
+            <img class="img-fluid rounded shadow-sm" src="@/assets/images/camiseta.png" alt="Camiseta Frontal" />
+          </div>
+          <div class="col-6">
+            <img class="img-fluid rounded shadow-sm" src="@/assets/images/camiseta.png" alt="Camiseta Trasera" />
+          </div>
+        </div>
       </div>
-      <div class="col">
-        <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
+      <div class="col-md-6 text-center text-md-start">
+        <h1 class="display-4 fw-bold mb-3 text-primary">¡Próximamente disponible!</h1>
+        <p class="lead mb-4">
+          Estamos preparando una colección exclusiva de merchandising para que puedas lucir los colores de nuestro barrio.
+        </p>
+        <div class="card border-primary mb-3">
+          <div class="card-body">
+            <h5 class="card-title text-primary"><i class="bi bi-shop me-2"></i>Puntos de venta locales</h5>
+            <p class="card-text">
+              Muy pronto podrás adquirir todos nuestros productos directamente en los comercios colaboradores del barrio. ¡Apoya lo local!
+            </p>
+          </div>
+        </div>
+        <div class="alert alert-info d-inline-block" role="alert">
+          <i class="bi bi-info-circle me-2"></i> Mantente atento a nuestras redes sociales para el lanzamiento oficial.
+        </div>
       </div>
     </div>
-    <h1 class="my-4">¡Compra nuestro merchan!</h1>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque dignissim orci ut libero lacinia, iaculis consequat elit luctus. Ut porttitor aliquet sem, eget tempus nunc pretium fermentum. Ut eget libero purus. Nullam sit amet massa dolor. Aenean ultrices urna ultricies, iaculis nibh eget, feugiat velit. Sed a magna id tortor ornare elementum. Sed ornare, elit et tincidunt faucibus, sapien neque ultrices erat, in viverra nisl dolor condimentum neque. Morbi mattis eros sit amet purus pellentesque, non aliquet nulla tincidunt.
-    </p>
-    <p>
-      Cras sit amet ligula at justo congue vulputate eu in diam. Ut ut lectus libero. Nam consectetur, lectus in cursus laoreet, felis ipsum gravida tellus, scelerisque hendrerit dui nisl in tortor. Fusce porta eleifend ante, in vehicula dui. Curabitur luctus dolor commodo, fringilla orci a, hendrerit leo. Curabitur lacinia augue ante, eget venenatis justo tincidunt at. Praesent eu arcu commodo, porta est nec, blandit est. Aenean faucibus porttitor leo, eu egestas orci lacinia ultricies. Donec quis bibendum ligula.
-    </p>
-    <p>
-      In tincidunt pharetra elit id ornare. Cras bibendum hendrerit laoreet. Aliquam turpis lectus, mattis at maximus sit amet, dapibus nec enim. Ut pulvinar mauris lacinia leo dignissim convallis. Nullam sed tellus molestie, commodo eros quis, porta sem. Vestibulum rhoncus sit amet massa eu suscipit. Morbi ut orci id purus tincidunt mattis. Aenean sed tortor a arcu blandit dignissim.
-    </p>
   </div>
 </template>
