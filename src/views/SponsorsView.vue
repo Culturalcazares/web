@@ -3,12 +3,12 @@
 
 <template>
   <div class="container py-4 my-4">
-    <h1 class="mb-4 text-center" style="font-family: var(--jellee)">Patrocina el Festival Culturalcázares</h1>
-    <p class="lead text-center mb-5" style="font-family: var(--abeezee)">
+    <h1 class="mb-4 text-center">Patrocina el Festival Culturalcázares</h1>
+    <p class="lead text-center mb-5">
       Con el barrio, por el barrio, para el barrio. ¡Tu negocio puede ser parte del corazón de Los Alcázares!
     </p>
 
-    <div class="row justify-content-center mb-5" style="font-family: var(--abeezee)">
+    <div class="row justify-content-center mb-5">
       <div class="col-md-8 text-center">
         <p>
           El <strong>Festival Culturalcázares</strong> es una iniciativa vecinal que celebra el arte, la cultura y la convivencia en nuestras calles. Queremos invitar a los comercios y empresas locales a unirse a este proyecto que pone en valor nuestra identidad y dinamiza la economía del barrio.
@@ -19,8 +19,8 @@
       </div>
     </div>
 
-    <h2 class="mb-4 text-center" style="font-family: var(--jellee)">Niveles de Patrocinio</h2>
-    <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4 mb-5 justify-content-center" style="font-family: var(--abeezee)">
+    <h2 class="mb-4 text-center">Niveles de Patrocinio</h2>
+    <div class="row row-cols-1 row-cols-md-2 row-cols-xl-4 g-4 mb-5 justify-content-center">
       <!-- Bronce -->
       <div class="col">
         <div class="card h-100 border-0 shadow text-center rounded-4">
@@ -123,11 +123,11 @@
         ¿Quieres formar parte de algo grande? ¡Hablemos!
       </p>
       <div class="mb-4">
-        <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary btn-lg px-5 py-3 shadow-sm" style="font-family: var(--jellee)">
+        <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary btn-lg px-5 py-3 shadow-sm">
           Mándanos un email a culturalcazares.fest@gmail.com
         </a>
       </div>
-      <p style="font-family: var(--abeezee)">
+      <p>
         También puedes descargar el <a href="#" target="_blank" class="fw-bold text-decoration-none">contrato de patrocinio</a> para más detalles.
       </p>
     </div>
