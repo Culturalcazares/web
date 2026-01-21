@@ -98,16 +98,4 @@
 </template>
 
 <style scoped>
-.text-primary {
-  color: #5c7cb6 !important;
-}
-.bg-primary {
-  background-color: #5c7cb6 !important;
-}
-.text-warning {
-  color: #eec82d !important;
-}
-.bg-warning {
-  background-color: #eec82d !important;
-}
 </style>
