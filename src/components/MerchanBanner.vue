@@ -3,17 +3,26 @@
 
 <template>
   <div class="container py-5">
-    <div class="row">
-      <div class="col-md-6 text-center align-content-center">
-        <h2 class="fs-1">Compra nuestra camiseta</h2>
+    <RouterLink :to="{ name: 'merchandising' }">
+      <div class="row">
+        <div class="col-md-3">
+            <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
+        </div>
+        <div class="col-md-6 text-center align-content-center">
+          <p class="fs-1">Tenemos merchandising!!</p>
+        </div>
+        <div class="col-md-3">
+            <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
+
+        </div>
       </div>
-      <div class="col-md-3">
-        <RouterLink :to="{ name: 'merchandising' }">
-          <img class="img-fluid" src="@/assets/images/camiseta.png" alt="Camiseta" />
-        </RouterLink>
-      </div>
-    </div>
+    </RouterLink>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+a {
+  text-decoration: none;
+  color: inherit;
+}
+</style>
