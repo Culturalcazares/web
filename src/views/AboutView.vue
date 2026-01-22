@@ -11,14 +11,14 @@
         </p>
       </div>
       <div class="col-lg-6 text-center">
-        <img class="img-fluid rounded shadow-lg" src="@/assets/images/logo.png" alt="Culturalcázares Logo" style="max-height: 300px;" />
+        <img class="img-fluid rounded" src="@/assets/images/logo.png" alt="Culturalcázares Logo" style="max-height: 300px;" />
       </div>
     </div>
 
     <!-- Sección: Nuestra Filosofía -->
     <div class="row mb-5 py-4 bg-primary text-white rounded-4 shadow">
       <div class="col-md-8 mx-auto text-center">
-        <h2 class="h1 fw-bold mb-4">Cultura de barrio y música en directo</h2>
+        <h2 class="h1 fw-bold mb-4">Cultura de barrio, cultura al natural</h2>
         <p class="fs-5">
           Nuestro enfoque mantiene la esencia de siempre: <strong>música en directo para todos</strong>. Queremos llenar la jornada con cuatro actuaciones vibrantes, asegurando que al menos el <strong>40% de los grupos incluyan mujeres</strong>, promoviendo la igualdad en los escenarios.
         </p>
@@ -88,8 +88,13 @@
             Mantente al día de todas las inscripciones, actividades y sorpresas que estamos preparando. El barrio es el corazón del festival, y queremos que formes parte de él.
           </p>
           <div class="mt-4">
-            <span class="badge rounded-pill bg-primary px-3 py-2 me-2">#CulturaBarrio</span>
-            <span class="badge rounded-pill bg-warning text-dark px-3 py-2">#MusicaEnDirecto</span>
+            <a href="https://www.instagram.com/culturalcazares" target="_blank" rel="noopener noreferrer" class="btn btn-outline-light btn-lg rounded-pill mb-3">
+              <i class="bi bi-instagram me-2"></i>@culturalcazares
+            </a>
+            <div class="mt-2">
+              <span class="badge rounded-pill bg-primary px-3 py-2 me-2">#CulturaBarrio</span>
+              <span class="badge rounded-pill bg-warning text-dark px-3 py-2">#MusicaEnDirecto</span>
+            </div>
           </div>
         </div>
       </div>
