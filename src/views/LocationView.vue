@@ -16,13 +16,13 @@
         <h2>En autobús</h2>
 
         <h3 class="fs-5">Línea 92</h3>
-        <p>Parada Rio Bullaque (Parque Alcazares)</p>
+        <p>Parada Río Bullaque (Parque Alcazares)</p>
 
         <h3 class="fs-5">Línea 62</h3>
         <p>Parada Río Mesa 2</p>
 
         <h3 class="fs-5">Línea LB2 (nocturno)</h3>
-        <p>Parada Rio Bullaque (Parque Alcazares)</p>
+        <p>Parada Río Bullaque (Parque Alcazares)</p>
 
         <p>Mas información en <a href="https://unauto.es/" target="_blank">Unauto</a></p>
       </div>
