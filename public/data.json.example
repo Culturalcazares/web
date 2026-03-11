@@ -1,10 +1,10 @@
 {
   "activities": [
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c81",
-      "title": "The Beatles",
-      "organizer": "Abby Road Studios",
-      "image": "/images/activities/thebeatles.png",
+      "id": "efcfb202-599d-4caf-9109-4753ec408c61",
+      "title": "Titulo",
+      "organizer": "Organizador",
+      "image": "/images/activities/default.png",
       "date": {
         "start": "2026-05-23T10:00:00",
         "end": "2026-05-23T11:00:00"
