@@ -1,4 +1,85 @@
 {
-  "activities": [],
-  "sponsors": []
+  "activities": [
+    {
+      "id": "675f9979-51b1-403a-8b78-95b02ad49e51",
+      "title": "Taller de monederos plastificados",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/default.png",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T12:00:00"
+      },
+      "place": "Zona Talleres",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Únete a este taller para diseñar por ti mis@ un monedero plastificado con la ilustración que tú quieras. Con papel de periódico o revista, hilo, aguja y forro de libros, podrás diseñar un objeto práctico para tu día a día. Plazas: 10."
+    },
+    {
+      "id": "aa195902-6e0d-4a46-99d2-92e8106b493a",
+      "title": "Taller de patinaje",
+      "organizer": "Isabel - Campeona de Castilla-La Mancha de patinaje",
+      "image": "/images/activities/default.png",
+      "date": {
+        "start": "2026-10-24T16:00:00",
+        "end": "2026-10-24T17:00:00"
+      },
+      "place": "Pista de fútbol",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Ponte y tráelos al Parque de los Alcázares para disfrutar de un taller. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c81",
+      "title": "Taller de pintura de miniaturas (mañana)",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/Taller_Miniaturas.jpg",
+      "date": {
+        "start": "2026-10-24T11:00:00",
+        "end": "2026-10-24T12:30:00"
+      },
+      "place": "Zona Tolerol",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Taller de pintura de miniaturas (tarde). Plazas: 6."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c82",
+      "title": "Taller de pintura de miniaturas (tarde)",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/Taller_Miniaturas.jpg",
+      "date": {
+        "start": "2026-10-24T16:00:00",
+        "end": "2026-10-24T17:30:00"
+      },
+      "place": "Zona Tolerol",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Taller de pintura de miniaturas (tarde). Plazas: 6."
+    }
+  ],
+  "sponsors": [
+    {
+      "id": "8f14e45f-ea9b-4d4b-8a3a-1f2d3c4b5a60",
+      "name": "Café Central",
+      "type": "BRONZE",
+      "image": "https://cafecentral.example.com/logo.jpeg",
+      "link": "https://cafecentral.example.com"
+    }
+  ]
 }
