@@ -1,40 +1,94 @@
 {
   "activities": [
     {
-      "id": "675f9979-51b1-403a-8b78-95b02ad49e51",
-      "title": "Taller de monederos plastificados",
-      "organizer": "AV El Tajo",
-      "image": "/images/activities/default.png",
+      "id": "efcfb202-599d-4caf-9109-4753ec408c90",
+      "title": "Street football",
+      "organizer": "Asociación Paideia",
+      "image": "/images/activities/street_football.jpg",
       "date": {
         "start": "2026-10-24T10:00:00",
-        "end": "2026-10-24T12:00:00"
-      },
-      "place": "Zona Talleres",
-      "tags": [
-        {
-          "text": "Taller",
-          "color": "#ffc107"
-        }
-      ],
-      "description": "Únete a este taller para diseñar por ti mis@ un monedero plastificado con la ilustración que tú quieras. Con papel de periódico o revista, hilo, aguja y forro de libros, podrás diseñar un objeto práctico para tu día a día. Plazas: 10."
-    },
-    {
-      "id": "aa195902-6e0d-4a46-99d2-92e8106b493a",
-      "title": "Taller de patinaje",
-      "organizer": "Isabel - Campeona de Castilla-La Mancha de patinaje",
-      "image": "/images/activities/default.png",
-      "date": {
-        "start": "2026-10-24T16:00:00",
-        "end": "2026-10-24T17:00:00"
+        "end": "2026-10-24T14:00:00"
       },
       "place": "Pista de fútbol",
       "tags": [
         {
-          "text": "Taller",
-          "color": "#ffc107"
+          "text": "Concurso",
+          "color": "#7c3aed"
         }
       ],
-      "description": "Ponte y tráelos al Parque de los Alcázares para disfrutar de un taller. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40."
+      "description": "Un torneo de street football pensado para niños y jóvenes. Ven a compartir con otros chicos y chicas de tu edad la emoción de la competición, el trabajo en equipo y el juego limpio.\n\nPuedes apuntarte al torneo tengas o no un equipo.\n¡Te esperamos en el campo!\n Público objetivo: 6 a 15 años"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c91",
+      "title": "Concurso de pintura en vivo",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/pintura.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T17:00:00"
+      },
+      "place": "Parque de los alcázares",
+      "tags": [
+        {
+          "text": "Concurso",
+          "color": "#7c3aed"
+        }
+      ],
+      "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nBases por determinar\n"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c92",
+      "title": "Concurso de fotografía",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/fotografia.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-25T02:00:00"
+      },
+      "place": "Parque de los alcázares",
+      "tags": [
+        {
+          "text": "Concurso",
+          "color": "#7c3aed"
+        }
+      ],
+      "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del eventos de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26. \n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar\n"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c93",
+      "title": "Torneo de petanca (adultos)",
+      "organizer": "Federación Castellano-Manchega de Petanca",
+      "image": "/images/activities/petanca.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Pista de petanca",
+      "tags": [
+        {
+          "text": "Concurso",
+          "color": "#7c3aed"
+        }
+      ],
+      "description": "No te pierdas este torneo de petanca organizado especialmente para nuestro festival por la Federación Castellano-Manchega de Petanca.\n\nDisfruta de una mañana de deporte y compite para conseguir el gran premio. ¡Te esperamos!\n\nBases por determinar\n"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c94",
+      "title": "Torneo de petanca (infantil)",
+      "organizer": "Federación Castellano-Manchega de Petanca",
+      "image": "/images/activities/petanca.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Pista de petanca",
+      "tags": [
+        {
+          "text": "Concurso",
+          "color": "#7c3aed"
+        }
+      ],
+      "description": "Si tienes entre 10 y 14 años y sientes curiosidad por la petanca, ¡esta es tu oportunidad de probarla!\n\nCon la colaboración de la Federación Castellano-Manchega de Petanca estamos organizando un torneo de este deporte para que los más pequeños lo conozcan y lo disfruten.\n\n¡Os esperamos!\n"
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c81",
@@ -52,7 +106,43 @@
           "color": "#ffc107"
         }
       ],
-      "description": "Taller de pintura de miniaturas (tarde). Plazas: 6."
+      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c83",
+      "title": "Taller de malabares",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/malabares.jpg",
+      "date": {
+        "start": "2026-10-24T11:00:00",
+        "end": "2026-10-24T13:00:00"
+      },
+      "place": "Zona de talleres",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Si siempre te han atraído los malabares y nunca has dado el paso, anímate y ven. Nosotros ponemos el material y tú las ganas. Podrás iniciarte en la práctica de bolas, mazas, diábolo, aros, cariocas, zancos, etc. Nosotros te enseñamos.\nPracticar malabares no es solo lanzar objetos, es gestionar el equilibrio entre la dificultad y el control."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c80",
+      "title": "Taller de patinaje",
+      "organizer": "Isabel Fernández - Campeona de Castilla-La Mancha de patinaje",
+      "image": "/images/activities/patinaje.jpg",
+      "date": {
+        "start": "2026-10-24T16:00:00",
+        "end": "2026-10-24T17:00:00"
+      },
+      "place": "Pista de fútbol",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Ponte tus patines y tráelos al Parque de los Alcázares para disfrutar de un taller de patinaje con Isabel Fernández, la campeona de patinaje artístico de Castilla-La Mancha.. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40."
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c82",
@@ -70,7 +160,7 @@
           "color": "#ffc107"
         }
       ],
-      "description": "Taller de pintura de miniaturas (tarde). Plazas: 6."
+      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6."
     }
   ],
   "sponsors": [

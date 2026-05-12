@@ -1,6 +1,28 @@
 <script setup lang="ts">
 import { useActivityStore } from '@/stores/activity.ts'
 import ActivityCard from "@/components/ActivityCard.vue";
+import Masonry from 'masonry-layout';
+import imagesLoaded from 'imagesloaded';
+import { onMounted, onUpdated, ref } from 'vue';
+
+const masonryContainer = ref<HTMLElement | null>(null);
+let msnry: Masonry | null = null;
+
+function initMasonry() {
+  if (masonryContainer.value) {
+    if (msnry) msnry.destroy?.();
+    msnry = new Masonry(masonryContainer.value, {
+      itemSelector: '.masonry-item',
+      percentPosition: true,
+    });
+    imagesLoaded(masonryContainer.value, () => {
+      msnry?.layout?.();
+    });
+  }
+}
+
+onMounted(initMasonry);
+onUpdated(initMasonry);
 
 const store = useActivityStore()
 
@@ -93,11 +115,9 @@ function formatTime(date: Date): string {
             </div>
           </div>
         </div>
-        <div>
-          <div class="row mt-2">
-            <div class="col-md-4 mb-4" v-for="activity in store.filteredActivities" :key="activity.id">
-              <activity-card :activity="activity" />
-            </div>
+        <div class="row mt-2" ref="masonryContainer">
+          <div class="col-md-4 mb-4 masonry-item" v-for="activity in store.filteredActivities" :key="activity.id">
+            <activity-card :activity="activity" />
           </div>
         </div>
       </div>
