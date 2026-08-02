@@ -33,20 +33,13 @@
               >
             </li>
             <li class="nav-item">
-              <RouterLink :to="{ name: 'home', hash: '#sponsors' }" class="nav-link"
-                >Patrocinadores</RouterLink
-              >
+              <RouterLink :to="{ name: 'sponsors' }" class="nav-link">Crowdfunding</RouterLink>
             </li>
             <li class="nav-item">
               <RouterLink :to="{ name: 'location' }" class="nav-link">Cómo llegar</RouterLink>
             </li>
             <li class="nav-item">
               <RouterLink :to="{ name: 'about' }" class="nav-link">Quiénes somos</RouterLink>
-            </li>
-            <li class="nav-item">
-              <RouterLink :to="{ name: 'merchandising' }" class="nav-link"
-                >Merchandising</RouterLink
-              >
             </li>
             <li class="nav-item ms-lg-3">
               <a href="https://www.instagram.com/culturalcazares" target="_blank" rel="noopener noreferrer" class="nav-link text-primary fs-5 p-0 mt-1">
