@@ -41,7 +41,7 @@ function formatTime(date: Date): string {
 
     <div class="row">
       <div class="col-md-8 p-0">
-        <img :src="activity.image" class="img-fluid" alt="Actividad" />
+        <img :src="activity.image" class="img-fluid w-100" alt="Actividad" />
       </div>
       <div class="col-md-4 text-bg-primary p-4 d-flex flex-column">
         <p class="fs-4">

@@ -109,7 +109,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
               </ul>
             </div>
             <div class="card-footer bg-white border-0 pb-4 text-center">
-              <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary px-4">Donar</a>
+              <a href="https://buy.stripe.com/dRm4gB5Qp9S5dhbbr7gEg02" class="btn btn-primary px-4" target="_blank" rel="noopener">Donar</a>
             </div>
           </div>
         </div>
@@ -139,7 +139,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
               </ul>
             </div>
             <div class="card-footer bg-white border-0 pb-4 text-center">
-              <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary px-4">Donar</a>
+              <a href="https://buy.stripe.com/3cI14p1A9c0dgtn7aRgEg03" class="btn btn-primary px-4" target="_blank" rel="noopener">Donar</a>
             </div>
           </div>
         </div>
@@ -177,7 +177,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
               </ul>
             </div>
             <div class="card-footer bg-white border-0 pb-4 text-center">
-              <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary px-4">Donar</a>
+              <a href="https://buy.stripe.com/6oUdRb92B8O12CxeDjgEg04" class="btn btn-primary px-4" target="_blank" rel="noopener">Donar</a>
             </div>
           </div>
         </div>
@@ -211,7 +211,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
               </ul>
             </div>
             <div class="card-footer bg-white border-0 pb-4 text-center">
-              <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary px-4">Donar</a>
+              <a href="https://buy.stripe.com/00w7sN4Ml5BPgtn52JgEg05" class="btn btn-primary px-4" target="_blank" rel="noopener">Donar</a>
             </div>
           </div>
         </div>
@@ -249,7 +249,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
               </ul>
             </div>
             <div class="card-footer bg-white border-0 pb-4 text-center">
-              <a href="mailto:culturalcazares.fest@gmail.com" class="btn btn-primary px-4">Donar</a>
+              <a href="https://buy.stripe.com/6oUaEZceNd4h3GBcvbgEg06" class="btn btn-primary px-4" target="_blank" rel="noopener">Donar</a>
             </div>
           </div>
         </div>
@@ -316,8 +316,10 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
             </div>
             <div class="card-footer bg-transparent border-0 pb-4 text-center">
               <a
-                href="mailto:culturalcazares.fest@gmail.com"
+                href="https://buy.stripe.com/3cI6oJceNe8la4Zbr7gEg07"
                 class="btn btn-warning btn-lg px-5 fw-bold"
+                target="_blank"
+                rel="noopener"
                 >Donar</a
               >
             </div>
