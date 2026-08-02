@@ -33,9 +33,7 @@
               >
             </li>
             <li class="nav-item">
-              <RouterLink :to="{ name: 'home', hash: '#sponsors' }" class="nav-link"
-                >Patrocinadores</RouterLink
-              >
+              <RouterLink :to="{ name: 'sponsors' }" class="nav-link">Crowdfunding</RouterLink>
             </li>
             <li class="nav-item">
               <RouterLink :to="{ name: 'location' }" class="nav-link">Cómo llegar</RouterLink>
