@@ -6,22 +6,12 @@
     <div class="row align-items-center mb-5">
       <div class="col-lg-6 mb-4 mb-lg-0">
         <h1 class="display-4 fw-bold text-primary mb-4">Somos Culturalcázares</h1>
-        <p class="lead text-dark shadow-sm p-4 bg-light rounded-3 border-start border-4 border-primary">
+        <p class="lead text-dark">
           El festival Culturalcázares nace como una renovación del emblemático festival que dejó huella en nuestro barrio. Es una oportunidad para resucitar su espíritu, añadiendo nuevos aires y aprovechando el crecimiento cultural, artístico y gastronómico de nuestra comunidad.
         </p>
       </div>
       <div class="col-lg-6 text-center">
         <img class="img-fluid rounded" src="@/assets/images/logo.png" alt="Culturalcázares Logo" style="max-height: 300px;" />
-      </div>
-    </div>
-
-    <!-- Sección: Nuestra Filosofía -->
-    <div class="row mb-5 py-4 bg-primary text-white rounded-4 shadow">
-      <div class="col-md-8 mx-auto text-center">
-        <h2 class="h1 fw-bold mb-4">Cultura de barrio, cultura al natural</h2>
-        <p class="fs-5">
-          Nuestro enfoque mantiene la esencia de siempre: <strong>música en directo para todos</strong>. Queremos llenar la jornada con cuatro actuaciones vibrantes, asegurando que al menos el <strong>40% de los grupos incluyan mujeres</strong>, promoviendo la igualdad en los escenarios.
-        </p>
       </div>
     </div>
 
@@ -91,10 +81,6 @@
             <a href="https://www.instagram.com/culturalcazares" target="_blank" rel="noopener noreferrer" class="btn btn-outline-light btn-lg rounded-pill mb-3">
               <i class="bi bi-instagram me-2"></i>@culturalcazares
             </a>
-            <div class="mt-2">
-              <span class="badge rounded-pill bg-primary px-3 py-2 me-2">#CulturaBarrio</span>
-              <span class="badge rounded-pill bg-warning text-dark px-3 py-2">#MusicaEnDirecto</span>
-            </div>
           </div>
         </div>
       </div>
