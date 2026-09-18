@@ -42,7 +42,12 @@
               <RouterLink :to="{ name: 'about' }" class="nav-link">Quiénes somos</RouterLink>
             </li>
             <li class="nav-item ms-lg-3">
-              <a href="https://www.instagram.com/culturalcazares" target="_blank" rel="noopener noreferrer" class="nav-link text-primary fs-5 p-0 mt-1">
+              <a
+                href="https://www.instagram.com/culturalcazares.parkfest"
+                target="_blank"
+                rel="noopener noreferrer"
+                class="nav-link text-primary fs-5 p-0 mt-1"
+              >
                 <i class="bi bi-instagram"></i>
               </a>
             </li>
