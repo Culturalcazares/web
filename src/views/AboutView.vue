@@ -85,6 +85,21 @@
         </div>
       </div>
     </div>
+
+    <!-- Sección: Contacto -->
+    <div class="row mt-5">
+      <div class="col-12">
+        <div class="py-5 text-center">
+          <h3 class="fw-bold mb-3"><i class="bi bi-envelope me-2"></i>Contacto</h3>
+          <p class="mb-4">
+            ¿Quieres participar, colaborar o proponernos una actividad? Escríbenos y te responderemos lo antes posible.
+          </p>
+          <a href="mailto:culturalcazares.fest@gmail.com" class="fs-5 text-decoration-none">
+            <i class="bi bi-envelope-fill me-2"></i>culturalcazares.fest@gmail.com
+          </a>
+        </div>
+      </div>
+    </div>
   </div>
 </template>
 
