@@ -112,7 +112,7 @@
               rel="noopener noreferrer"
               class="btn btn-outline-light btn-lg rounded-pill mb-3"
             >
-              <i class="bi bi-instagram me-2"></i>@culturalcazares
+              <i class="bi bi-instagram me-2"></i>@culturalcazares.parkfest
             </a>
           </div>
         </div>
