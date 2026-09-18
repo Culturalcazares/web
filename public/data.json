@@ -55,42 +55,6 @@
       "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del eventos de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26. \n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar\n"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c93",
-      "title": "Torneo de petanca (adultos)",
-      "organizer": "Federación Castellano-Manchega de Petanca",
-      "image": "/images/activities/petanca.jpg",
-      "date": {
-        "start": "2026-10-24T10:00:00",
-        "end": "2026-10-24T14:00:00"
-      },
-      "place": "Pista de petanca",
-      "tags": [
-        {
-          "text": "Concurso",
-          "color": "#7c3aed"
-        }
-      ],
-      "description": "No te pierdas este torneo de petanca organizado especialmente para nuestro festival por la Federación Castellano-Manchega de Petanca.\n\nDisfruta de una mañana de deporte y compite para conseguir el gran premio. ¡Te esperamos!\n\nBases por determinar\n"
-    },
-    {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c94",
-      "title": "Torneo de petanca (infantil)",
-      "organizer": "Federación Castellano-Manchega de Petanca",
-      "image": "/images/activities/petanca.jpg",
-      "date": {
-        "start": "2026-10-24T10:00:00",
-        "end": "2026-10-24T14:00:00"
-      },
-      "place": "Pista de petanca",
-      "tags": [
-        {
-          "text": "Concurso",
-          "color": "#7c3aed"
-        }
-      ],
-      "description": "Si tienes entre 10 y 14 años y sientes curiosidad por la petanca, ¡esta es tu oportunidad de probarla!\n\nCon la colaboración de la Federación Castellano-Manchega de Petanca estamos organizando un torneo de este deporte para que los más pequeños lo conozcan y lo disfruten.\n\n¡Os esperamos!\n"
-    },
-    {
       "id": "efcfb202-599d-4caf-9109-4753ec408c81",
       "title": "Taller de pintura de miniaturas (mañana)",
       "organizer": "AV El Tajo",
@@ -99,14 +63,15 @@
         "start": "2026-10-24T11:00:00",
         "end": "2026-10-24T12:30:00"
       },
-      "place": "Zona Tolerol",
+      "place": "Zona Liga de Aventureros",
       "tags": [
         {
           "text": "Taller",
           "color": "#ffc107"
         }
       ],
-      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6."
+      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c83",
@@ -142,7 +107,8 @@
           "color": "#ffc107"
         }
       ],
-      "description": "Ponte tus patines y tráelos al Parque de los Alcázares para disfrutar de un taller de patinaje con Isabel Fernández, la campeona de patinaje artístico de Castilla-La Mancha.. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40."
+      "description": "Ponte tus patines y tráelos al Parque de los Alcázares para disfrutar de un taller de patinaje con Isabel Fernández, la campeona de patinaje artístico de Castilla-La Mancha.. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c82",
@@ -153,14 +119,15 @@
         "start": "2026-10-24T16:00:00",
         "end": "2026-10-24T17:30:00"
       },
-      "place": "Zona Tolerol",
+      "place": "Zona Liga de Aventureros",
       "tags": [
         {
           "text": "Taller",
           "color": "#ffc107"
         }
       ],
-      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6."
+      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c85",
@@ -180,6 +147,25 @@
       ],
       "description": "Desde la Asociación Vecinal El Tajo y la Escuela Municipal de Pintura y Arte Urbano La Mancha, se organiza para el 24 de octubre de 2026 una exhibición de graffiti dentro de la programación del Culturalcázares Park Fest.\nLa exhibición pretende potenciar la visión del Arte en el espacio público como una manera de mejorar el aspecto de un pueblo o ciudad, haciendo con ello ver el graffiti y las obras de arte urbano como una muestra de expresión humana y de su visión de la sociedad.\nLa exhibición se llevará a cabo en los muros de las inmediaciones del parque de los Alcázares, localizado en el barrio de Santa María de Benquerencia de Toledo.\n",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLScTjtuqsGlURLxQIp2OVWfdojVcbwziUVcgjIOEncFQ-RJpiQ/viewform?usp=header"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999990",
+      "title": "Bordado floral para principiantes",
+      "organizer": "Patricia",
+      "image": "/images/activities/Taller_bordado.jpeg",
+      "date": {
+        "start": "2026-05-23T11:00:00",
+        "end": "2026-05-23T13:00:00"
+      },
+      "place": "Zona de talleres",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#ffc107"
+        }
+      ],
+      "description": "Un taller creativo de iniciación al bordado floral donde aprenderás a dar tus primeras puntadas mientras creas una pieza única.\n\nDurante la sesión aprenderás los puntos básicos del bordado (como punto atrás, punto tallo, nudo francés y punto margarita) y aprenderás a combinarlos para crear flores y hojas con volumen y textura.\n\nTrabajaremos sobre un diseño guiado, pero con libertad para elegir colores y darle tu toque personal. No necesitas experiencia previa: este taller está pensado para principiantes.\n\nAl finalizar, te llevarás tu bastidor bordado terminado y las bases para seguir creando en casa. Plazas: 8",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     }
   ],
   "sponsors": [
