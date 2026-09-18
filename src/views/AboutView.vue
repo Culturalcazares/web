@@ -7,11 +7,19 @@
       <div class="col-lg-6 mb-4 mb-lg-0">
         <h1 class="display-4 fw-bold text-primary mb-4">Somos Culturalcázares</h1>
         <p class="lead text-dark">
-          El festival Culturalcázares nace como una renovación del emblemático festival que dejó huella en nuestro barrio. Es una oportunidad para resucitar su espíritu, añadiendo nuevos aires y aprovechando el crecimiento cultural, artístico y gastronómico de nuestra comunidad.
+          El festival Culturalcázares nace como una renovación del emblemático festival que dejó
+          huella en nuestro barrio. Es una oportunidad para resucitar su espíritu, añadiendo nuevos
+          aires y aprovechando el crecimiento cultural, artístico y gastronómico de nuestra
+          comunidad.
         </p>
       </div>
       <div class="col-lg-6 text-center">
-        <img class="img-fluid rounded" src="@/assets/images/logo.png" alt="Culturalcázares Logo" style="max-height: 300px;" />
+        <img
+          class="img-fluid rounded"
+          src="@/assets/images/logo.png"
+          alt="Culturalcázares Logo"
+          style="max-height: 300px"
+        />
       </div>
     </div>
 
@@ -23,7 +31,9 @@
           <div class="card-body">
             <div class="display-5 text-warning mb-3"><i class="bi bi-shop"></i></div>
             <h5 class="card-title fw-bold">Economía Local</h5>
-            <p class="card-text small text-muted">Promocionamos la cultura y la economía de proximidad del barrio.</p>
+            <p class="card-text small text-muted">
+              Promocionamos la cultura y la economía de proximidad del barrio.
+            </p>
           </div>
         </div>
       </div>
@@ -32,7 +42,9 @@
           <div class="card-body">
             <div class="display-5 text-warning mb-3"><i class="bi bi-people"></i></div>
             <h5 class="card-title fw-bold">Talento Local</h5>
-            <p class="card-text small text-muted">Damos visibilidad a los artistas y agrupaciones de nuestra zona.</p>
+            <p class="card-text small text-muted">
+              Damos visibilidad a los artistas y agrupaciones de nuestra zona.
+            </p>
           </div>
         </div>
       </div>
@@ -41,7 +53,9 @@
           <div class="card-body">
             <div class="display-5 text-warning mb-3"><i class="bi bi-controller"></i></div>
             <h5 class="card-title fw-bold">Ocio Sano</h5>
-            <p class="card-text small text-muted">Generamos alternativas de ocio para todas las edades, especialmente jóvenes.</p>
+            <p class="card-text small text-muted">
+              Generamos alternativas de ocio para todas las edades, especialmente jóvenes.
+            </p>
           </div>
         </div>
       </div>
@@ -50,7 +64,9 @@
           <div class="card-body">
             <div class="display-5 text-warning mb-3"><i class="bi bi-heart"></i></div>
             <h5 class="card-title fw-bold">Identidad</h5>
-            <p class="card-text small text-muted">Diseñamos un festival en consonancia con la idiosincrasia del barrio.</p>
+            <p class="card-text small text-muted">
+              Diseñamos un festival en consonancia con la idiosincrasia del barrio.
+            </p>
           </div>
         </div>
       </div>
@@ -62,12 +78,23 @@
         <div class="h-100 p-5 bg-light border rounded-3 shadow-sm">
           <h3 class="fw-bold mb-3"><i class="bi bi-megaphone me-2"></i>Unión con el barrio</h3>
           <p>
-            No solo somos música. Queremos que los propios vecinos y comerciantes sean los protagonistas, desgranando la información de artistas y actividades a través de nuestras redes sociales.
+            No solo somos música. Queremos que los propios vecinos y comerciantes sean los
+            protagonistas, desgranando la información de artistas y actividades a través de nuestras
+            redes sociales.
           </p>
           <ul class="list-unstyled">
-            <li><i class="bi bi-check2-circle text-primary me-2"></i> Cartelería tradicional y vídeos promocionales.</li>
-            <li><i class="bi bi-check2-circle text-primary me-2"></i> Colaboración con medios de turismo local.</li>
-            <li><i class="bi bi-check2-circle text-primary me-2"></i> Talleres y actividades para todas las edades.</li>
+            <li>
+              <i class="bi bi-check2-circle text-primary me-2"></i> Cartelería tradicional y vídeos
+              promocionales.
+            </li>
+            <li>
+              <i class="bi bi-check2-circle text-primary me-2"></i> Colaboración con medios de
+              turismo local.
+            </li>
+            <li>
+              <i class="bi bi-check2-circle text-primary me-2"></i> Talleres y actividades para
+              todas las edades.
+            </li>
           </ul>
         </div>
       </div>
@@ -75,10 +102,16 @@
         <div class="h-100 p-5 text-white bg-dark rounded-3 shadow-sm">
           <h3 class="fw-bold mb-3"><i class="bi bi-instagram me-2"></i>¡Síguenos!</h3>
           <p>
-            Mantente al día de todas las inscripciones, actividades y sorpresas que estamos preparando. El barrio es el corazón del festival, y queremos que formes parte de él.
+            Mantente al día de todas las inscripciones, actividades y sorpresas que estamos
+            preparando. El barrio es el corazón del festival, y queremos que formes parte de él.
           </p>
           <div class="mt-4">
-            <a href="https://www.instagram.com/culturalcazares" target="_blank" rel="noopener noreferrer" class="btn btn-outline-light btn-lg rounded-pill mb-3">
+            <a
+              href="https://www.instagram.com/culturalcazares.parkfest"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="btn btn-outline-light btn-lg rounded-pill mb-3"
+            >
               <i class="bi bi-instagram me-2"></i>@culturalcazares
             </a>
           </div>
@@ -92,7 +125,8 @@
         <div class="py-5 text-center">
           <h3 class="fw-bold mb-3"><i class="bi bi-envelope me-2"></i>Contacto</h3>
           <p class="mb-4">
-            ¿Quieres participar, colaborar o proponernos una actividad? Escríbenos y te responderemos lo antes posible.
+            ¿Quieres participar, colaborar o proponernos una actividad? Escríbenos y te
+            responderemos lo antes posible.
           </p>
           <a href="mailto:culturalcazares.fest@gmail.com" class="fs-5 text-decoration-none">
             <i class="bi bi-envelope-fill me-2"></i>culturalcazares.fest@gmail.com
@@ -103,5 +137,4 @@
   </div>
 </template>
 
-<style scoped>
-</style>
+<style scoped></style>
