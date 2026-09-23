@@ -13,7 +13,7 @@
       "tags": [
         {
           "text": "Concurso",
-          "color": "#7c3aed"
+          "color": "#5C7CB6"
         }
       ],
       "description": "Un torneo de street football pensado para niños y jóvenes. Ven a compartir con otros chicos y chicas de tu edad la emoción de la competición, el trabajo en equipo y el juego limpio.\n\nPuedes apuntarte al torneo tengas o no un equipo.\n¡Te esperamos en el campo!\n Público objetivo: 6 a 15 años"
@@ -31,7 +31,7 @@
       "tags": [
         {
           "text": "Concurso",
-          "color": "#7c3aed"
+          "color": "#5C7CB6"
         }
       ],
       "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nBases por determinar\n"
@@ -49,10 +49,29 @@
       "tags": [
         {
           "text": "Concurso",
-          "color": "#7c3aed"
+          "color": "#5C7CB6"
         }
       ],
       "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del eventos de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26. \n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar\n"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753ec408c85",
+      "title": "I Exhibición de Graffiti Culturalcázares Park Fest",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/graffiti.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T18:00:00"
+      },
+      "place": "Zona Underground",
+      "tags": [
+        {
+          "text": "Exhibición",
+          "color": "#DC6246"
+        }
+      ],
+      "description": "¿Quieres ayudarnos a decorar el barrio? ¡Puedes hacerlo participando en la I Exhibición de Graffiti del Culturalcázares Park Fest!\n\nOrganizada en colaboración con la Escuela de Arte Urbano “La Mancha”, esta exhibición te dará la oportunidad de mostrar tus dotes artísticas en un espacio privilegiado dentro del barrio del Polígono de Toledo. Cada participante tendrá a su disposición un trozo de un muro fijo de hormigón cercano al Parque de los Alcázares y 5 botes de spray.\n\nSi quieres participar, pincha abajo para acceder al formulario y echarle un ojo a las bases de inscripción\n",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLScTjtuqsGlURLxQIp2OVWfdojVcbwziUVcgjIOEncFQ-RJpiQ/viewform?usp=header"
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c81",
@@ -67,7 +86,7 @@
       "tags": [
         {
           "text": "Taller",
-          "color": "#ffc107"
+          "color": "#33956F"
         }
       ],
       "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6.",
@@ -86,10 +105,84 @@
       "tags": [
         {
           "text": "Taller",
-          "color": "#ffc107"
+          "color": "#33956F"
         }
       ],
       "description": "Si siempre te han atraído los malabares y nunca has dado el paso, anímate y ven. Nosotros ponemos el material y tú las ganas. Podrás iniciarte en la práctica de bolas, mazas, diábolo, aros, cariocas, zancos, etc. Nosotros te enseñamos.\nPracticar malabares no es solo lanzar objetos, es gestionar el equilibrio entre la dificultad y el control."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999990",
+      "title": "Bordado floral para principiantes",
+      "organizer": "Patricia",
+      "image": "/images/activities/Taller_bordado.jpeg",
+      "date": {
+        "start": "2026-10-24T11:00:00",
+        "end": "2026-10-24T13:00:00"
+      },
+      "place": "Zona de talleres",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#33956F"
+        }
+      ],
+      "description": "Un taller creativo de iniciación al bordado floral donde aprenderás a dar tus primeras puntadas mientras creas una pieza única.\n\nDurante la sesión aprenderás los puntos básicos del bordado (como punto atrás, punto tallo, nudo francés y punto margarita) y aprenderás a combinarlos para crear flores y hojas con volumen y textura.\n\nTrabajaremos sobre un diseño guiado, pero con libertad para elegir colores y darle tu toque personal. No necesitas experiencia previa: este taller está pensado para principiantes.\n\nAl finalizar, te llevarás tu bastidor bordado terminado y las bases para seguir creando en casa. Plazas: 8",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999991",
+      "title": "Decoración de tote bags",
+      "organizer": "Lady Tea",
+      "image": "/images/activities/Taller_totebags.png",
+      "date": {
+        "start": "2026-10-24T11:00:00",
+        "end": "2026-10-24T13:00:00"
+      },
+      "place": "Zona de talleres",
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#33956F"
+        }
+      ],
+      "description": "Saca tu lado más creativo y convierte una tote bag en tu próxima obra de arte.\n\nEn este taller de pintura de estampados crearás tu propio diseño jugando con colores, formas y combinaciones súper originales.\n\nAtrévete a experimentar, mancharte las manos y llevarte una bolsa única, personalizada por ti y con muchísimo estilo.\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nPlazas: 12. Inscripción anticipada.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999993",
+      "title": "Paella popular",
+      "organizer": "Asociación de vecinos",
+      "image": "/images/activities/paella-popular.jpg",
+      "date": {
+        "start": "2026-10-24T14:00:00",
+        "end": "2026-10-24T16:00:00"
+      },
+      "place": "Escenario",
+      "tags": [
+        {
+          "text": "Ocio",
+          "color": "#EEC82D"
+        }
+      ],
+      "description": "¡¿Pensabais que nos íbamos a olvidar del ñamñam?!\n\nA mediodía y después de una mañana intensa llena de actividades, acércate a la zona del escenario para reponer fuerzas con nuestra Paella Popular preparada por la Asociación de Vecinos. El momento perfecto para compartir plato, risas y buen ambiente con todo el barrio.\n\n¡Ven con hambre, ganas de disfrutar y pilla tu plato de paella!\n\nPúblico objetivo: todos los públicos.\nRequisitos: hambre.\nSin límite de participantes y sin inscripción previa."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999994",
+      "title": "Social de Lindy Hop",
+      "organizer": "Alhaja Swing Toledo",
+      "image": "/images/activities/social-swing.jpeg",
+      "date": {
+        "start": "2026-10-24T14:00:00",
+        "end": "2026-10-24T16:00:00"
+      },
+      "place": "Escenario",
+      "tags": [
+        {
+          "text": "Exhibición",
+          "color": "#DC6246"
+        }
+      ],
+      "description": "¡Siente la energía y el ambiente de una auténtica fiesta de época en nuestra Exhibición de Baile Social! Un espectáculo lleno de ritmo, improvisación y conexión donde nuestros bailarines darán vida en la pista a los estilos más contagiosos del swing.\n\nPrepárate para disfrutar de giros espectaculares, musicalidad y la esencia pura del baile en pareja tal como se vive en una pista social: espontáneo, divertido y lleno de complicidad. No solo serás espectador, ¡sino que sentirás las ganas irresistibles de mover los pies y contagiarte de la mejor música!\n\n¡Ven a disfrutar del show, déjate llevar por el ritmo y descubre lo que te espera en la pista de baile!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753ec408c80",
@@ -104,7 +197,7 @@
       "tags": [
         {
           "text": "Taller",
-          "color": "#ffc107"
+          "color": "#33956F"
         }
       ],
       "description": "Ponte tus patines y tráelos al Parque de los Alcázares para disfrutar de un taller de patinaje con Isabel Fernández, la campeona de patinaje artístico de Castilla-La Mancha.. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40.",
@@ -123,49 +216,29 @@
       "tags": [
         {
           "text": "Taller",
-          "color": "#ffc107"
+          "color": "#33956F"
         }
       ],
       "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c85",
-      "title": "I Exhibición de Graffiti Culturalcázares Park Fest",
+      "id": "efcfb202-599d-4caf-9109-4753e9999992",
+      "title": "Bingo",
       "organizer": "AV El Tajo",
-      "image": "/images/activities/graffiti.jpg",
+      "image": "/images/activities/bingo.jpg",
       "date": {
-        "start": "2026-10-24T10:00:00",
+        "start": "2026-10-24T17:00:00",
         "end": "2026-10-24T18:00:00"
       },
-      "place": "Zona Underground",
+      "place": "Escenario",
       "tags": [
         {
-          "text": "Exhibición",
-          "color": "#ffc107"
+          "text": "Ocio",
+          "color": "#EEC82D"
         }
       ],
-      "description": "Desde la Asociación Vecinal El Tajo y la Escuela Municipal de Pintura y Arte Urbano La Mancha, se organiza para el 24 de octubre de 2026 una exhibición de graffiti dentro de la programación del Culturalcázares Park Fest.\nLa exhibición pretende potenciar la visión del Arte en el espacio público como una manera de mejorar el aspecto de un pueblo o ciudad, haciendo con ello ver el graffiti y las obras de arte urbano como una muestra de expresión humana y de su visión de la sociedad.\nLa exhibición se llevará a cabo en los muros de las inmediaciones del parque de los Alcázares, localizado en el barrio de Santa María de Benquerencia de Toledo.\n",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLScTjtuqsGlURLxQIp2OVWfdojVcbwziUVcgjIOEncFQ-RJpiQ/viewform?usp=header"
-    },
-    {
-      "id": "efcfb202-599d-4caf-9109-4753e9999990",
-      "title": "Bordado floral para principiantes",
-      "organizer": "Patricia",
-      "image": "/images/activities/Taller_bordado.jpeg",
-      "date": {
-        "start": "2026-05-23T11:00:00",
-        "end": "2026-05-23T13:00:00"
-      },
-      "place": "Zona de talleres",
-      "tags": [
-        {
-          "text": "Taller",
-          "color": "#ffc107"
-        }
-      ],
-      "description": "Un taller creativo de iniciación al bordado floral donde aprenderás a dar tus primeras puntadas mientras creas una pieza única.\n\nDurante la sesión aprenderás los puntos básicos del bordado (como punto atrás, punto tallo, nudo francés y punto margarita) y aprenderás a combinarlos para crear flores y hojas con volumen y textura.\n\nTrabajaremos sobre un diseño guiado, pero con libertad para elegir colores y darle tu toque personal. No necesitas experiencia previa: este taller está pensado para principiantes.\n\nAl finalizar, te llevarás tu bastidor bordado terminado y las bases para seguir creando en casa. Plazas: 8",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+      "description": "¡Ni se te ocurra perderte nuestro Bingo Popular!\n\nAquí el ambiente está garantizado y, la verdad, este siempre toca (o al menos las risas te las llevas seguro).\n\nCanta línea, reclama tu bingo y disfruta de un rato distendido entre amigos. Eso sí, una pequeña aclaración técnica: desde la organización no aseguramos que frotar los cartones contra una calva garantice ganar... ¡pero por probar que no quede!\n\n¡Pilla tu cartón, desata la suerte y dale al bingo!\n\nPúblico objetivo: todos los públicos.\nRequisitos: comprar un cartón al menos.\nSin límite de participantes y sin inscripción previa."
     }
   ],
   "sponsors": [

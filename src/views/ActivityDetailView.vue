@@ -32,7 +32,7 @@ function formatTime(date: Date): string {
 <template>
   <div class="container py-4 my-4" v-if="activity">
     <p>
-      <span class="badge" v-for="tag in activity.tags" :key="tag.text" :style="{ 'background-color': tag.color }">
+      <span class="badge text-dark" v-for="tag in activity.tags" :key="tag.text" :style="{ 'background-color': tag.color }">
         {{ tag.text }}
       </span>
     </p>

@@ -34,7 +34,8 @@ export const useActivityStore = defineStore('activity', () => {
           }
         })
       })
-      .then((activitiesData: [Activity]) => {
+      .then((activitiesData: Activity[]) => {
+        activitiesData.sort((a, b) => a.date.start.getTime() - b.date.start.getTime())
         activities.value.push(...activitiesData)
 
         activitiesData.forEach((activity) => {
