@@ -26,7 +26,7 @@ function formatTime(date: Date): string {
     </RouterLink>
     <div class="card-body">
       <p>
-        <span class="badge" v-for="tag in props.activity.tags" :key="tag.text" :style="{ 'background-color': tag.color }">
+        <span class="badge text-dark" v-for="tag in props.activity.tags" :key="tag.text" :style="{ 'background-color': tag.color }">
           {{ tag.text }}
         </span>
       </p>
