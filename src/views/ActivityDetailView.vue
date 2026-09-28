@@ -40,8 +40,9 @@ function formatTime(date: Date): string {
     <h2 class="fs-4 mb-5 text-muted">{{ activity.organizer }}</h2>
 
     <div class="row">
-      <div class="col-md-8 p-0">
+      <div class="col-md-8 p-0 position-relative">
         <img :src="activity.image" class="img-fluid w-100" alt="Actividad" />
+        <span class="badge text-bg-danger fs-3 position-absolute top-0 start-0 m-0" v-if="activity.full">Completo</span>
       </div>
       <div class="col-md-4 text-bg-primary p-4 d-flex flex-column">
         <p class="fs-4">
@@ -52,7 +53,7 @@ function formatTime(date: Date): string {
           <b class="bi bi-geo-alt"></b> {{ activity.place }}
         </p>
         <p class="flex-grow-1">{{ activity.description }}</p>
-        <div class="d-grid" v-if="activity.link">
+        <div class="d-grid" v-if="activity.link && !activity.full">
           <a :href="activity.link" class="btn btn-light" target="_blank">Inscribirme</a>
         </div>
       </div>

@@ -11,4 +11,5 @@ export type Activity = {
   tags: Tag[]
   description: string
   link: string
+  full: boolean
 }

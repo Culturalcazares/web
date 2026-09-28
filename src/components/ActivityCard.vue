@@ -21,8 +21,9 @@ function formatTime(date: Date): string {
 
 <template>
   <div class="card">
-    <RouterLink :to="{ name: 'activity', params: { id: props.activity.id }}">
+    <RouterLink :to="{ name: 'activity', params: { id: props.activity.id }}" class="position-relative d-block">
       <img :src="props.activity.image" class="card-img-top bg-light" alt="Actividad" />
+      <span class="badge text-bg-danger fs-4 position-absolute top-0 start-0 m-0" v-if="props.activity.full">Completo</span>
     </RouterLink>
     <div class="card-body">
       <p>
