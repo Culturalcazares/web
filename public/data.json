@@ -87,7 +87,7 @@
         "end": "2026-10-24T12:30:00"
       },
       "place": "Zona Liga de Aventureros",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Taller",
