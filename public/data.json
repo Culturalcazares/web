@@ -10,6 +10,7 @@
         "end": "2026-10-24T14:00:00"
       },
       "place": "Pista de fútbol",
+      "full": false,
       "tags": [
         {
           "text": "Concurso",
@@ -28,6 +29,7 @@
         "end": "2026-10-24T17:00:00"
       },
       "place": "Parque de los alcázares",
+      "full": false,
       "tags": [
         {
           "text": "Concurso",
@@ -46,6 +48,7 @@
         "end": "2026-10-25T02:00:00"
       },
       "place": "Parque de los alcázares",
+      "full": false,
       "tags": [
         {
           "text": "Concurso",
@@ -64,6 +67,7 @@
         "end": "2026-10-24T18:00:00"
       },
       "place": "Zona Underground",
+      "full": false,
       "tags": [
         {
           "text": "Exhibición",
@@ -83,6 +87,7 @@
         "end": "2026-10-24T12:30:00"
       },
       "place": "Zona Liga de Aventureros",
+      "full": false,
       "tags": [
         {
           "text": "Taller",
@@ -102,6 +107,7 @@
         "end": "2026-10-24T13:00:00"
       },
       "place": "Zona de talleres",
+      "full": false,
       "tags": [
         {
           "text": "Taller",
@@ -120,6 +126,7 @@
         "end": "2026-10-24T13:00:00"
       },
       "place": "Zona de talleres",
+      "full": true,
       "tags": [
         {
           "text": "Taller",
@@ -139,6 +146,7 @@
         "end": "2026-10-24T13:00:00"
       },
       "place": "Zona de talleres",
+      "full": false,
       "tags": [
         {
           "text": "Taller",
@@ -158,6 +166,7 @@
         "end": "2026-10-24T16:00:00"
       },
       "place": "Escenario",
+      "full": false,
       "tags": [
         {
           "text": "Ocio",
@@ -172,10 +181,11 @@
       "organizer": "Alhaja Swing Toledo",
       "image": "/images/activities/social-swing.jpeg",
       "date": {
-        "start": "2026-10-24T14:00:00",
-        "end": "2026-10-24T16:00:00"
+        "start": "2026-10-24T16:00:00",
+        "end": "2026-10-24T17:00:00"
       },
       "place": "Escenario",
+      "full": false,
       "tags": [
         {
           "text": "Exhibición",
@@ -194,6 +204,7 @@
         "end": "2026-10-24T17:00:00"
       },
       "place": "Pista de fútbol",
+      "full": false,
       "tags": [
         {
           "text": "Taller",
@@ -213,6 +224,7 @@
         "end": "2026-10-24T17:30:00"
       },
       "place": "Zona Liga de Aventureros",
+      "full": false,
       "tags": [
         {
           "text": "Taller",
@@ -232,6 +244,7 @@
         "end": "2026-10-24T18:00:00"
       },
       "place": "Escenario",
+      "full": false,
       "tags": [
         {
           "text": "Ocio",
