@@ -462,7 +462,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
         </div>
         <p>
           También puedes descargar el
-          <a href="#" target="_blank" class="fw-bold text-decoration-none"
+          <a href="https://drive.google.com/file/d/1tmrrDs9C3o0MJUwekQBoDlDfyrZY7EdB/view?usp=sharing" target="_blank" class="fw-bold text-decoration-none"
             >contrato de patrocinio</a
           >
           para más detalles.

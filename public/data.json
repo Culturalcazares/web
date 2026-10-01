@@ -78,6 +78,26 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLScTjtuqsGlURLxQIp2OVWfdojVcbwziUVcgjIOEncFQ-RJpiQ/viewform?usp=header"
     },
     {
+      "id": "efcfb202-599d-4caf-9109-4753e9999995",
+      "title": "Taller de mantenimiento de bici",
+      "organizer": "Bicicletas Nino",
+      "image": "/images/activities/bicis.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T12:00:00"
+      },
+      "place": "Aparcamiento de bicis",
+      "full": false,
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#33956F"
+        }
+      ],
+      "description": "Trae tu bicicleta y Bicicletas Nino (@nino_garcia18) te enseñará a ponerla a punto, aprendiendo pequeños ajustes y reparaciones para mantenerla en buen estado.\n\nRequisitos: traer tu bicicleta.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+    },
+    {
       "id": "efcfb202-599d-4caf-9109-4753ec408c81",
       "title": "Taller de pintura de miniaturas (mañana)",
       "organizer": "AV El Tajo",
@@ -87,7 +107,7 @@
         "end": "2026-10-24T12:30:00"
       },
       "place": "Zona Liga de Aventureros",
-      "full": true,
+      "full": false,
       "tags": [
         {
           "text": "Taller",
