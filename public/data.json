@@ -98,6 +98,63 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
+      "id": "efcfb202-599d-4caf-9109-4753e9999997",
+      "title": "Torneo de petanca (adultos)",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/petanca.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Pista de petanca",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concurso",
+          "color": "#5C7CB6"
+        }
+      ],
+      "description": "No te pierdas este torneo de petanca.\n\nTrae tu juego de bolas y disfruta de una mañana de deporte y compite para conseguir el gran premio. ¡Te esperamos!\n\nLas inscripciones se harán en el mismo Parque de los Alcázares de 9:00 a 10:00.\n\nPúblico objetivo: adultos.\nRequisitos: traer juego de bolas.\nSin límite de participantes. Inscripción presencial."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999999",
+      "title": "Partidas de rol",
+      "organizer": "Liga de Aventureros",
+      "image": "/images/activities/partidas_rol.jpg",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Zona Liga de Aventureros",
+      "full": false,
+      "tags": [
+        {
+          "text": "Ocio",
+          "color": "#EEC82D"
+        }
+      ],
+      "description": "Tanto si tienes experiencia como si no, no te pierdas las partidas de rol que la Liga de Aventureros de Toledo está preparando para ti.\n\nNo tienes que traer nada, ¡tan solo tus ganas y tu imaginación!\n\nPúblico objetivo: mayores de 14 años.\nRequisitos: ninguno.\nPlazas: 10. Inscripción presencial."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e999999b",
+      "title": "Mercadillo",
+      "organizer": "Varios",
+      "image": "/images/activities/default.png",
+      "date": {
+        "start": "2026-10-24T10:00:00",
+        "end": "2026-10-24T18:00:00"
+      },
+      "place": "Zona Mercadillo",
+      "full": false,
+      "tags": [
+        {
+          "text": "Ocio",
+          "color": "#EEC82D"
+        }
+      ],
+      "description": "¡Aviso para los amantes de las cosas hechas con alma! Date una vuelta por nuestro Mercadillo de Artesanos, el rincón perfecto para curiosear, enamorarte de piezas únicas y llevarte a casa auténticas joyas hechas a mano por creadores locales.\n\nEntre puesto y puesto no prometemos que frotar una pieza de cerámica te vaya a dar tres deseos... pero sí que vas a encontrar ese detalle especial que no verás en ninguna otra parte. Un ambiente distendido, mucho talento y la excusa ideal para pasear sin prisas.\n\n¡Pásate a mirar, apoya el comercio local y llévate un capricho único!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
+    },
+    {
       "id": "efcfb202-599d-4caf-9109-4753ec408c81",
       "title": "Taller de pintura de miniaturas (mañana)",
       "organizer": "AV El Tajo",
@@ -175,6 +232,64 @@
       ],
       "description": "Saca tu lado más creativo y convierte una tote bag en tu próxima obra de arte.\n\nEn este taller de pintura de estampados crearás tu propio diseño jugando con colores, formas y combinaciones súper originales.\n\nAtrévete a experimentar, mancharte las manos y llevarte una bolsa única, personalizada por ti y con muchísimo estilo.\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nPlazas: 12. Inscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999996",
+      "title": "Taller de lindy hop",
+      "organizer": "Alhajas Swing Toledo",
+      "image": "/images/activities/taller_lindy_hop.jpg",
+      "date": {
+        "start": "2026-10-24T12:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Frente al escenario",
+      "full": false,
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#33956F"
+        }
+      ],
+      "description": "¡Descubre la magia del swing en nuestro Taller de Iniciación al Lindy Hop! En solo 2 horas, aprenderás los pasos básicos, la conexión en pareja y el ritmo contagioso de este baile nacido en los años 30 que arrasa en todo el mundo.\n\nNo necesitas experiencia previa ni venir con pareja: rotamos durante la clase para que practiques con todo el grupo y disfrutes desde el primer minuto. Solo necesitas calzado plano, ropa cómoda y ganas de moverte.\n\n¡Pierde la vergüenza, siente el ritmo y da tus primeros pasos en la pista!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nPlazas: 24. Inscripción anticipada.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e9999998",
+      "title": "Gimkana ciclista",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/gymkana_ciclista.jpg",
+      "date": {
+        "start": "2026-10-24T12:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Parque de los Alcázares",
+      "full": false,
+      "tags": [
+        {
+          "text": "Ocio",
+          "color": "#EEC82D"
+        }
+      ],
+      "description": "Trae tu bici el 24 de octubre al Parque de los Alcázares y demuestra tu habilidad sobre ruedas en nuestra gymkana ciclista.\n\n¡Lo pasarás en grande!\n\nPúblico objetivo: de 8 a 12 años.\nRequisitos: traer bici.\nSin límite de participantes y sin inscripción previa."
+    },
+    {
+      "id": "efcfb202-599d-4caf-9109-4753e999999a",
+      "title": "Juegos de mesa",
+      "organizer": "Neo Kingdom",
+      "image": "/images/activities/juegos_de_mesa.jpg",
+      "date": {
+        "start": "2026-10-24T12:00:00",
+        "end": "2026-10-24T18:00:00"
+      },
+      "place": "Por determinar",
+      "full": false,
+      "tags": [
+        {
+          "text": "Ocio",
+          "color": "#EEC82D"
+        }
+      ],
+      "description": "Tanto si lo que te apasiona es el parchís como si te gusta discutir con tus amigos por los recursos en el Catán, Neo Kingdom te espera en el Culturalcázares Park Fest con sus juegos de mesa.\n\nPásate por el espacio que hemos reservado para darle a las cartas, a las fichas o a los dados. ¡No te lo pierdas!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
     },
     {
       "id": "efcfb202-599d-4caf-9109-4753e9999993",
