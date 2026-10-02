@@ -1,7 +1,7 @@
 {
   "activities": [
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c90",
+      "id": "f8cccdc2-cb40-4757-b0c9-eefa33f57441",
       "title": "Street football",
       "organizer": "Asociación Paideia",
       "image": "/images/activities/street_football.jpg",
@@ -17,10 +17,10 @@
           "color": "#5C7CB6"
         }
       ],
-      "description": "Un torneo de street football pensado para niños y jóvenes. Ven a compartir con otros chicos y chicas de tu edad la emoción de la competición, el trabajo en equipo y el juego limpio.\n\nPuedes apuntarte al torneo tengas o no un equipo.\n¡Te esperamos en el campo!\n Público objetivo: 6 a 15 años"
+      "description": "Un torneo de street football pensado para niños y jóvenes. Ven a compartir con otros chicos y chicas de tu edad la emoción de la competición, el trabajo en equipo y el juego limpio.\n\nPuedes apuntarte al torneo tengas o no un equipo. ¡Te esperamos en el campo!\n\nPúblico objetivo: de 6 a 15 años."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c91",
+      "id": "53c01fb3-2e81-4084-af44-35d5a75ef8cd",
       "title": "Concurso de pintura en vivo",
       "organizer": "AV El Tajo",
       "image": "/images/activities/pintura.png",
@@ -28,7 +28,7 @@
         "start": "2026-10-24T10:00:00",
         "end": "2026-10-24T17:00:00"
       },
-      "place": "Parque de los alcázares",
+      "place": "Parque de los Alcázares",
       "full": false,
       "tags": [
         {
@@ -36,10 +36,10 @@
           "color": "#5C7CB6"
         }
       ],
-      "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nBases por determinar\n"
+      "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nRequisitos: traer caballete, pinceles y pinturas.\nBases por determinar."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c92",
+      "id": "c7575af9-2a92-4c6c-b5ad-6c4093d8ae17",
       "title": "Concurso de fotografía",
       "organizer": "AV El Tajo",
       "image": "/images/activities/fotografia.jpg",
@@ -47,7 +47,7 @@
         "start": "2026-10-24T10:00:00",
         "end": "2026-10-25T02:00:00"
       },
-      "place": "Parque de los alcázares",
+      "place": "Parque de los Alcázares",
       "full": false,
       "tags": [
         {
@@ -55,10 +55,10 @@
           "color": "#5C7CB6"
         }
       ],
-      "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del eventos de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26. \n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar\n"
+      "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del evento de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26.\n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c85",
+      "id": "8352c6a5-c45f-4d76-a6f7-cf873cafa581",
       "title": "I Exhibición de Graffiti Culturalcázares Park Fest",
       "organizer": "AV El Tajo",
       "image": "/images/activities/graffiti.jpg",
@@ -74,11 +74,11 @@
           "color": "#DC6246"
         }
       ],
-      "description": "¿Quieres ayudarnos a decorar el barrio? ¡Puedes hacerlo participando en la I Exhibición de Graffiti del Culturalcázares Park Fest!\n\nOrganizada en colaboración con la Escuela de Arte Urbano “La Mancha”, esta exhibición te dará la oportunidad de mostrar tus dotes artísticas en un espacio privilegiado dentro del barrio del Polígono de Toledo. Cada participante tendrá a su disposición un trozo de un muro fijo de hormigón cercano al Parque de los Alcázares y 5 botes de spray.\n\nSi quieres participar, pincha abajo para acceder al formulario y echarle un ojo a las bases de inscripción\n",
+      "description": "¿Quieres ayudarnos a decorar el barrio? ¡Puedes hacerlo participando en la I Exhibición de Graffiti del Culturalcázares Park Fest!\n\nOrganizada en colaboración con la Escuela de Arte Urbano “La Mancha”, esta exhibición te dará la oportunidad de mostrar tus dotes artísticas en un espacio privilegiado dentro del barrio del Polígono de Toledo. Cada participante tendrá a su disposición un trozo de un muro fijo de hormigón cercano al Parque de los Alcázares y 5 botes de spray.\n\nSi quieres participar, pincha abajo para acceder al formulario y echarle un ojo a las bases de inscripción.\n\nInscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLScTjtuqsGlURLxQIp2OVWfdojVcbwziUVcgjIOEncFQ-RJpiQ/viewform?usp=header"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999995",
+      "id": "0fcbe3fb-f812-43ff-9df6-68b439173a51",
       "title": "Taller de mantenimiento de bici",
       "organizer": "Bicicletas Nino",
       "image": "/images/activities/bicis.jpg",
@@ -94,11 +94,11 @@
           "color": "#33956F"
         }
       ],
-      "description": "Trae tu bicicleta y Bicicletas Nino (@nino_garcia18) te enseñará a ponerla a punto, aprendiendo pequeños ajustes y reparaciones para mantenerla en buen estado.\n\nRequisitos: traer tu bicicleta.",
+      "description": "Trae tu bicicleta y Bicicletas Nino (@nino_garcia18) te enseñará a ponerla a punto, aprendiendo pequeños ajustes y reparaciones para mantenerla en buen estado.\n\nRequisitos: traer tu bicicleta.\nInscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999997",
+      "id": "9e81311c-d0bc-42ce-8976-c80daa28deff",
       "title": "Torneo de petanca (adultos)",
       "organizer": "AV El Tajo",
       "image": "/images/activities/petanca.jpg",
@@ -117,7 +117,7 @@
       "description": "No te pierdas este torneo de petanca.\n\nTrae tu juego de bolas y disfruta de una mañana de deporte y compite para conseguir el gran premio. ¡Te esperamos!\n\nLas inscripciones se harán en el mismo Parque de los Alcázares de 9:00 a 10:00.\n\nPúblico objetivo: adultos.\nRequisitos: traer juego de bolas.\nSin límite de participantes. Inscripción presencial."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999999",
+      "id": "ca0b9b00-da78-4879-a46e-9c25c3795001",
       "title": "Partidas de rol",
       "organizer": "Liga de Aventureros",
       "image": "/images/activities/partidas_rol.jpg",
@@ -136,7 +136,7 @@
       "description": "Tanto si tienes experiencia como si no, no te pierdas las partidas de rol que la Liga de Aventureros de Toledo está preparando para ti.\n\nNo tienes que traer nada, ¡tan solo tus ganas y tu imaginación!\n\nPúblico objetivo: mayores de 14 años.\nRequisitos: ninguno.\nPlazas: 10. Inscripción presencial."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e999999b",
+      "id": "51e52f28-04e5-4f2f-ba7f-c1e1c9156a59",
       "title": "Mercadillo",
       "organizer": "Varios",
       "image": "/images/activities/default.png",
@@ -155,7 +155,7 @@
       "description": "¡Aviso para los amantes de las cosas hechas con alma! Date una vuelta por nuestro Mercadillo de Artesanos, el rincón perfecto para curiosear, enamorarte de piezas únicas y llevarte a casa auténticas joyas hechas a mano por creadores locales.\n\nEntre puesto y puesto no prometemos que frotar una pieza de cerámica te vaya a dar tres deseos... pero sí que vas a encontrar ese detalle especial que no verás en ninguna otra parte. Un ambiente distendido, mucho talento y la excusa ideal para pasear sin prisas.\n\n¡Pásate a mirar, apoya el comercio local y llévate un capricho único!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c81",
+      "id": "903b03b4-0588-43ea-be50-aba9d03e2b8e",
       "title": "Taller de pintura de miniaturas (mañana)",
       "organizer": "AV El Tajo",
       "image": "/images/activities/Taller_Miniaturas.jpg",
@@ -171,11 +171,11 @@
           "color": "#33956F"
         }
       ],
-      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6.",
+      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!\n\nPlazas: 6. Inscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c83",
+      "id": "79ab5726-606f-4cf5-8ffb-788c4c788819",
       "title": "Taller de malabares",
       "organizer": "AV El Tajo",
       "image": "/images/activities/malabares.jpg",
@@ -191,10 +191,10 @@
           "color": "#33956F"
         }
       ],
-      "description": "Si siempre te han atraído los malabares y nunca has dado el paso, anímate y ven. Nosotros ponemos el material y tú las ganas. Podrás iniciarte en la práctica de bolas, mazas, diábolo, aros, cariocas, zancos, etc. Nosotros te enseñamos.\nPracticar malabares no es solo lanzar objetos, es gestionar el equilibrio entre la dificultad y el control."
+      "description": "Si siempre te han atraído los malabares y nunca has dado el paso, anímate y ven. Nosotros ponemos el material y tú las ganas. Podrás iniciarte en la práctica de bolas, mazas, diábolo, aros, cariocas, zancos, etc. Nosotros te enseñamos.\n\nPracticar malabares no es solo lanzar objetos, es gestionar el equilibrio entre la dificultad y el control."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999990",
+      "id": "34d41569-640e-4b63-b78c-92221d0b1ba8",
       "title": "Bordado floral para principiantes",
       "organizer": "Patricia",
       "image": "/images/activities/Taller_bordado.jpeg",
@@ -210,11 +210,11 @@
           "color": "#33956F"
         }
       ],
-      "description": "Un taller creativo de iniciación al bordado floral donde aprenderás a dar tus primeras puntadas mientras creas una pieza única.\n\nDurante la sesión aprenderás los puntos básicos del bordado (como punto atrás, punto tallo, nudo francés y punto margarita) y aprenderás a combinarlos para crear flores y hojas con volumen y textura.\n\nTrabajaremos sobre un diseño guiado, pero con libertad para elegir colores y darle tu toque personal. No necesitas experiencia previa: este taller está pensado para principiantes.\n\nAl finalizar, te llevarás tu bastidor bordado terminado y las bases para seguir creando en casa. Plazas: 8",
+      "description": "Un taller creativo de iniciación al bordado floral donde aprenderás a dar tus primeras puntadas mientras creas una pieza única.\n\nDurante la sesión aprenderás los puntos básicos del bordado (como punto atrás, punto tallo, nudo francés y punto margarita) y aprenderás a combinarlos para crear flores y hojas con volumen y textura.\n\nTrabajaremos sobre un diseño guiado, pero con libertad para elegir colores y darle tu toque personal. No necesitas experiencia previa: este taller está pensado para principiantes.\n\nAl finalizar, te llevarás tu bastidor bordado terminado y las bases para seguir creando en casa.\n\nRequisitos: ninguno.\nPlazas: 8. Inscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999991",
+      "id": "59871e3f-bb2d-4492-8c8b-7a4fa839bacf",
       "title": "Decoración de tote bags",
       "organizer": "Lady Tea",
       "image": "/images/activities/Taller_totebags.png",
@@ -234,9 +234,9 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999996",
+      "id": "4610eb09-8dd3-485c-a6e9-76ff3c492c63",
       "title": "Taller de lindy hop",
-      "organizer": "Alhajas Swing Toledo",
+      "organizer": "Alhaja Swing Toledo",
       "image": "/images/activities/taller_lindy_hop.jpg",
       "date": {
         "start": "2026-10-24T12:00:00",
@@ -254,8 +254,8 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999998",
-      "title": "Gimkana ciclista",
+      "id": "09f04e78-028f-4cf1-83e5-d5e2d18cf8ce",
+      "title": "Gymkana ciclista",
       "organizer": "AV El Tajo",
       "image": "/images/activities/gymkana_ciclista.jpg",
       "date": {
@@ -273,7 +273,7 @@
       "description": "Trae tu bici el 24 de octubre al Parque de los Alcázares y demuestra tu habilidad sobre ruedas en nuestra gymkana ciclista.\n\n¡Lo pasarás en grande!\n\nPúblico objetivo: de 8 a 12 años.\nRequisitos: traer bici.\nSin límite de participantes y sin inscripción previa."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e999999a",
+      "id": "d4f09dd0-7034-400b-92a3-939f9d10911a",
       "title": "Juegos de mesa",
       "organizer": "Neo Kingdom",
       "image": "/images/activities/juegos_de_mesa.jpg",
@@ -292,7 +292,7 @@
       "description": "Tanto si lo que te apasiona es el parchís como si te gusta discutir con tus amigos por los recursos en el Catán, Neo Kingdom te espera en el Culturalcázares Park Fest con sus juegos de mesa.\n\nPásate por el espacio que hemos reservado para darle a las cartas, a las fichas o a los dados. ¡No te lo pierdas!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999993",
+      "id": "c550276f-141c-49a0-8093-e67f02bf2459",
       "title": "Paella popular",
       "organizer": "Asociación de vecinos",
       "image": "/images/activities/paella-popular.jpg",
@@ -311,7 +311,7 @@
       "description": "¡¿Pensabais que nos íbamos a olvidar del ñamñam?!\n\nA mediodía y después de una mañana intensa llena de actividades, acércate a la zona del escenario para reponer fuerzas con nuestra Paella Popular preparada por la Asociación de Vecinos. El momento perfecto para compartir plato, risas y buen ambiente con todo el barrio.\n\n¡Ven con hambre, ganas de disfrutar y pilla tu plato de paella!\n\nPúblico objetivo: todos los públicos.\nRequisitos: hambre.\nSin límite de participantes y sin inscripción previa."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999994",
+      "id": "a42b341f-9839-40e0-94e1-5fab26afceb3",
       "title": "Social de Lindy Hop",
       "organizer": "Alhaja Swing Toledo",
       "image": "/images/activities/social-swing.jpeg",
@@ -323,14 +323,14 @@
       "full": false,
       "tags": [
         {
-          "text": "Exhibición",
-          "color": "#DC6246"
+          "text": "Ocio",
+          "color": "#EEC82D"
         }
       ],
       "description": "¡Siente la energía y el ambiente de una auténtica fiesta de época en nuestra Exhibición de Baile Social! Un espectáculo lleno de ritmo, improvisación y conexión donde nuestros bailarines darán vida en la pista a los estilos más contagiosos del swing.\n\nPrepárate para disfrutar de giros espectaculares, musicalidad y la esencia pura del baile en pareja tal como se vive en una pista social: espontáneo, divertido y lleno de complicidad. No solo serás espectador, ¡sino que sentirás las ganas irresistibles de mover los pies y contagiarte de la mejor música!\n\n¡Ven a disfrutar del show, déjate llevar por el ritmo y descubre lo que te espera en la pista de baile!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c80",
+      "id": "826123c0-6f46-49bf-9463-2eb9d762da6e",
       "title": "Taller de patinaje",
       "organizer": "Isabel Fernández - Campeona de Castilla-La Mancha de patinaje artístico",
       "image": "/images/activities/patinaje.jpg",
@@ -346,11 +346,11 @@
           "color": "#33956F"
         }
       ],
-      "description": "Ponte tus patines y tráelos al Parque de los Alcázares para disfrutar de un taller de patinaje con Isabel Fernández, la campeona de patinaje artístico de Castilla-La Mancha.. \n Requisitos: Traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\n Perfecto para niños y adolescentes.\n Plazas: 40.",
+      "description": "Ponte tus patines y tráelos al Parque de los Alcázares para disfrutar de un taller de patinaje con Isabel Fernández, la campeona de patinaje artístico de Castilla-La Mancha.\n\nPúblico objetivo: niños y adolescentes.\nRequisitos: traer patines de cualquier tipo y ser capaz de sostenerse con los patines puestos.\nPlazas: 40. Inscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753ec408c82",
+      "id": "6223ba52-8249-4382-9202-a9ffd7249964",
       "title": "Taller de pintura de miniaturas (tarde)",
       "organizer": "AV El Tajo",
       "image": "/images/activities/Taller_Miniaturas.jpg",
@@ -366,11 +366,11 @@
           "color": "#33956F"
         }
       ],
-      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!. Plazas: 6.",
+      "description": "Si estás interesado en el mundo de la pintura de miniaturas, este es tu taller. A lo largo de esta hora y media aprenderás los aspectos básicos para iniciarte en el mundillo, sin importar la utilidad que le des a tus figuras: rol, warhammers, decoración… ¡No te lo pierdas!\n\nPlazas: 6. Inscripción anticipada.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
-      "id": "efcfb202-599d-4caf-9109-4753e9999992",
+      "id": "2788789e-2e42-45cf-9f0f-c5ab421e4485",
       "title": "Bingo",
       "organizer": "AV El Tajo",
       "image": "/images/activities/bingo.jpg",
