@@ -224,7 +224,7 @@
         "end": "2026-10-24T13:00:00"
       },
       "place": "Zona de talleres",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Taller",
