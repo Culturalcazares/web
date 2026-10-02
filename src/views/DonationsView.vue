@@ -52,11 +52,20 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
                 ¡Guárdalo bien, lo vas a necesitar!
               </li>
               <li>
-                <strong>Recoge tus regalos</strong> — entre el
-                <strong>12 y el 23 de octubre</strong>, pásate por la
-                <strong>Asociación de Vecinos El Tajo</strong> (C. Río Bullaque, 24, 45007 Toledo)
-                con tu ticket y te entregaremos todo lo que te corresponde. El festival es el
-                <strong>24 de octubre</strong>, ¡así que no te quedes sin tus regalos!
+                <strong>Recoge tus regalos</strong> — pásate con tu ticket y te entregaremos todo
+                lo que te corresponde:
+                <ul class="mt-2 mb-0">
+                  <li>
+                    El <strong>22 y el 23 de octubre</strong>, en la
+                    <strong>Asociación de Vecinos El Tajo</strong> (C. Río Bullaque, 24, 45007
+                    Toledo).
+                  </li>
+                  <li>
+                    El <strong>24 de octubre</strong>, día del festival, en el
+                    <strong>punto de información</strong> del
+                    <strong>Parque de los Alcázares</strong>.
+                  </li>
+                </ul>
               </li>
             </ol>
           </div>
