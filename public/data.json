@@ -388,6 +388,82 @@
         }
       ],
       "description": "¡Ni se te ocurra perderte nuestro Bingo Popular!\n\nAquí el ambiente está garantizado y, la verdad, este siempre toca (o al menos las risas te las llevas seguro).\n\nCanta línea, reclama tu bingo y disfruta de un rato distendido entre amigos. Eso sí, una pequeña aclaración técnica: desde la organización no aseguramos que frotar los cartones contra una calva garantice ganar... ¡pero por probar que no quede!\n\n¡Pilla tu cartón, desata la suerte y dale al bingo!\n\nPúblico objetivo: todos los públicos.\nRequisitos: comprar un cartón al menos.\nSin límite de participantes y sin inscripción previa."
+    },
+    {
+      "id": "a6e1d4b9-3c72-4f85-9b0e-2d7f5c8a1e93",
+      "title": "Krono",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/Jamaka y Krono.jpg",
+      "date": {
+        "start": "2026-10-24T19:00:00",
+        "end": "2026-10-24T20:00:00"
+      },
+      "place": "Escenario principal",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concierto",
+          "color": "#8E5BA8"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "id": "5d2a8c71-9e4b-4f36-b1a7-6c3e0f9d2b84",
+      "title": "Azogue",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/default.png",
+      "date": {
+        "start": "2026-10-24T20:30:00",
+        "end": "2026-10-24T21:30:00"
+      },
+      "place": "Escenario principal",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concierto",
+          "color": "#8E5BA8"
+        }
+      ],
+      "description": "Esta banda manchegocastellana nació en los recreos de “IES Princesa Galiana”, y a día de hoy son diez personas que forman uno solo a la hora de versionar canciones de diversos estilos musicales (rock clásico, rap, y más), así como crear sus propias composiciones.\n\nEl proceso creativo implica la participación de todos los instrumentos, hasta que las letras comienzan a encajar. En ese momento llega la magia. ✨️\n\nEstamos deseando verles sobre el escenario. ¿Y vosotros? 😁"
+    },
+    {
+      "id": "3b9e6f2a-7c41-4d8e-9a5f-1e2c8d7b4a60",
+      "title": "The Eyelet",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/Eyelet.jpg",
+      "date": {
+        "start": "2026-10-24T22:00:00",
+        "end": "2026-10-24T23:00:00"
+      },
+      "place": "Escenario principal",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concierto",
+          "color": "#8E5BA8"
+        }
+      ],
+      "description": "The Eyelet es un cuarteto originario de la provincia de Toledo que, desde sus inicios, ha cautivado al público con un sonido fresco y muy personal y, sobre todo, con un directo arrollador. 💥\n\nSu propuesta se mueve dentro del indie-rock en español, combinando guitarras contundentes, dinámicas de claroscuros y estribillos que permanecen. En directo apuestan por un espectáculo ágil y emocional, con canciones que suben y bajan de intensidad, letras cercanas y un sonido que busca el equilibrio entre la crudeza y la melodía. ✨\n\nA finales de 2023 lanzaron su primer álbum y, desde entonces, no han dejado de crecer, reuniendo cada vez a más seguidores por toda España. En febrero de 2025 publicaron su segundo trabajo, “SE ABRE EL TELÓN”, cargado de grandes canciones y consolidando su evolución musical.\n\nDurante estos últimos años han pasado por salas de renombre y numerosos festivales, entre ellos la fiesta de presentación de SONORAMA 23, SONORAMA 26, El Vid, La Sagra Suena y Quijorock, entre otros. Además, han tenido la oportunidad de compartir escenario como teloneros de artistas como Rozalén, Shinova y Miss Caffeina.\n\nAhora, EYELET continúa creciendo y explorando nuevos caminos con su nueva música, demostrando que todavía tienen mucho que decir y mucho que hacer sonar.\n¡No te los pierdas en el escenario del Culturalcázares!"
+    },
+    {
+      "id": "8f4c2e17-6a3d-4b9e-a1c5-7d0e9b3f5a28",
+      "title": "Demorao",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/Demorao.jpg",
+      "date": {
+        "start": "2026-10-24T23:30:00",
+        "end": "2026-10-25T00:30:00"
+      },
+      "place": "Escenario principal",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concierto",
+          "color": "#8E5BA8"
+        }
+      ],
+      "description": "Este año tenemos la suerte de celebrar los 20 años de Demorao en el Culturalcázares Park Fest. Porque hay grupos que ponen música… y otros que ponen a todo el mundo a bailar. 💃🔥\n\nAsí que para esta ocasión toca sacar las mejores galas, ponerse el sombrero, el pañuelo y venir con muchas ganas de rumba. 💃🎶\n¡Que no todos los días se cumplen dos décadas!\n\n¿Te lo vas a perder?"
     }
   ],
   "sponsors": [
