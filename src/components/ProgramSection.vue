@@ -1,30 +1,16 @@
 <script setup lang="ts">
 import { useActivityStore } from '@/stores/activity.ts'
-import ActivityCard from "@/components/ActivityCard.vue";
-import Masonry from 'masonry-layout';
-import imagesLoaded from 'imagesloaded';
-import { onMounted, onUpdated, ref } from 'vue';
-
-const masonryContainer = ref<HTMLElement | null>(null);
-let msnry: Masonry | null = null;
-
-function initMasonry() {
-  if (masonryContainer.value) {
-    if (msnry) msnry.destroy?.();
-    msnry = new Masonry(masonryContainer.value, {
-      itemSelector: '.masonry-item',
-      percentPosition: true,
-    });
-    imagesLoaded(masonryContainer.value, () => {
-      msnry?.layout?.();
-    });
-  }
-}
-
-onMounted(initMasonry);
-onUpdated(initMasonry);
+import ProgramCards from '@/components/ProgramCards.vue'
+import ProgramTable from '@/components/ProgramTable.vue'
+import { ref } from 'vue'
 
 const store = useActivityStore()
+
+const viewMode = ref<'cards' | 'table'>('cards')
+
+function toggleViewMode() {
+  viewMode.value = viewMode.value === 'cards' ? 'table' : 'cards'
+}
 
 function handleTagChange(event: Event) {
   const tagText = event.target ? (event.target as HTMLInputElement).value : null
@@ -60,7 +46,18 @@ function formatTime(date: Date): string {
 <template>
   <div id="program">
     <div class="container py-5">
-      <h2 class="fs-1 mb-4 order-0">Programa</h2>
+      <div class="d-flex align-items-baseline gap-3 mb-4">
+        <h2 class="fs-1 mb-0 order-0">Programa</h2>
+        <button
+          v-if="store.activities && store.activities.length > 0"
+          type="button"
+          class="btn btn-sm btn-outline-primary ms-auto"
+          @click="toggleViewMode"
+        >
+          <template v-if="viewMode === 'cards'">Ver como tabla</template>
+          <template v-else>Ver como tarjetas</template>
+        </button>
+      </div>
 
       <div v-if="!store.activities || store.activities.length === 0">
         <div class="row mb-5">
@@ -71,55 +68,54 @@ function formatTime(date: Date): string {
         </div>
       </div>
       <div v-else>
-        <a
-          class="btn btn-sm btn-outline-primary m-0"
-          data-bs-toggle="collapse"
-          href="#filters"
-          role="button"
-          aria-expanded="false"
-          aria-controls="filters"
-        >
-          <i class="bi bi-filter" /> Filtrar
-        </a>
-        <div class="collapse card p-3 mb-4" id="filters">
-          <div class="row justify-content-center">
-            <div class="col-md-4">
-              <div class="form-floating">
-                <select
-                  class="form-select"
-                  id="type-select"
-                  aria-label="Type select"
-                  @change="handleTagChange"
-                >
-                  <option :value="null" selected>Sin filtro</option>
-                  <option v-for="tag in store.tags" :key="tag.text" :value="tag.text">{{ tag.text }}</option>
-                </select>
-                <label for="floatingSelect">Tipo de actividad</label>
+        <div v-show="viewMode === 'cards'">
+          <a
+            class="btn btn-sm btn-outline-primary m-0"
+            data-bs-toggle="collapse"
+            href="#filters"
+            role="button"
+            aria-expanded="false"
+            aria-controls="filters"
+          >
+            <i class="bi bi-filter" /> Filtrar
+          </a>
+          <div class="collapse card p-3 mb-4" id="filters">
+            <div class="row justify-content-center">
+              <div class="col-md-4">
+                <div class="form-floating">
+                  <select
+                    class="form-select"
+                    id="type-select"
+                    aria-label="Type select"
+                    @change="handleTagChange"
+                  >
+                    <option :value="null" selected>Sin filtro</option>
+                    <option v-for="tag in store.tags" :key="tag.text" :value="tag.text">{{ tag.text }}</option>
+                  </select>
+                  <label for="floatingSelect">Tipo de actividad</label>
+                </div>
               </div>
-            </div>
-            <div class="col-md-4">
-              <div class="form-floating">
-                <select
-                  class="form-select"
-                  id="time-select"
-                  aria-label="Type select"
-                  @change="handleTimeChange"
-                >
-                  <option :value="null" selected>Sin filtro</option>
-                  <option v-for="time in store.times" :key="time.toDateString()" :value="time.toString()">
-                    {{ formatTime(time) }}
-                  </option>
-                </select>
-                <label for="floatingSelect">Horario</label>
+              <div class="col-md-4">
+                <div class="form-floating">
+                  <select
+                    class="form-select"
+                    id="time-select"
+                    aria-label="Type select"
+                    @change="handleTimeChange"
+                  >
+                    <option :value="null" selected>Sin filtro</option>
+                    <option v-for="time in store.times" :key="time.toDateString()" :value="time.toString()">
+                      {{ formatTime(time) }}
+                    </option>
+                  </select>
+                  <label for="floatingSelect">Horario</label>
+                </div>
               </div>
             </div>
           </div>
         </div>
-        <div class="row mt-2" ref="masonryContainer">
-          <div class="col-md-4 mb-4 masonry-item" v-for="activity in store.filteredActivities" :key="activity.id">
-            <activity-card :activity="activity" />
-          </div>
-        </div>
+        <program-cards v-if="viewMode === 'cards'" :activities="store.filteredActivities" />
+        <program-table v-else :activities="store.activities" />
       </div>
     </div>
   </div>
