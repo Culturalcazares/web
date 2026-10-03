@@ -1,4 +1,4 @@
-export type Sponsor = {
+export type Organizer = {
   id: string
   name: string
   image: string
