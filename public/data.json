@@ -392,11 +392,176 @@
   ],
   "sponsors": [
     {
-      "id": "8f14e45f-ea9b-4d4b-8a3a-1f2d3c4b5a60",
-      "name": "Café Central",
-      "type": "BRONZE",
-      "image": "https://cafecentral.example.com/logo.jpeg",
-      "link": "https://cafecentral.example.com"
+      "id": "ea138f15-313e-45eb-b49e-1dce4516e2dd",
+      "name": "Auto Motor",
+      "image": "/images/sponsors/Auto Motor.jpg",
+      "link": "https://www.automotorsl.com"
+    },
+    {
+      "id": "99416709-81d9-4aa4-b1aa-59f108d752db",
+      "name": "Ayuntamiento de Toledo",
+      "image": "/images/sponsors/Ayuntamiento de Toledo.png",
+      "link": "https://www.toledo.es"
+    },
+    {
+      "id": "38c23ae8-3bba-4c42-b270-8dd53bce67e8",
+      "name": "Cristina Escobart",
+      "image": "/images/sponsors/Cristina Escobart.png",
+      "link": "https://www.instagram.com/cristina.escobart"
+    },
+    {
+      "id": "62a16629-2b36-4356-81e9-f4d54892d8b0",
+      "name": "Darpepro",
+      "image": "/images/sponsors/Darpepro.jpg",
+      "link": "https://darpepro.com"
+    },
+    {
+      "id": "1f88f26c-44f6-4862-bc49-b83972094417",
+      "name": "Diputación Toledo",
+      "image": "/images/sponsors/Diputacion Toledo.png",
+      "link": "https://www.diputoledo.es"
+    },
+    {
+      "id": "5ecf18e9-b73f-46bc-9f18-cc05482e67a3",
+      "name": "Fisioterapia Toledo",
+      "image": "/images/sponsors/Fisioterapia Toledo.jpeg",
+      "link": "https://fisioterapiatoledo.es"
+    },
+    {
+      "id": "cf216ddc-6cfb-488b-8aa1-9c49efd5230a",
+      "name": "Patronato Deportivo Toledo",
+      "image": "/images/sponsors/Patronato Deportivo Toledo.png",
+      "link": "https://www.patronatodeportivotoledo.com"
+    },
+    {
+      "id": "d84072ae-197e-4611-85ed-be257dafc507",
+      "name": "Peluquería Pebel",
+      "image": "/images/sponsors/Peluqueria Pebel.png",
+      "link": "https://www.facebook.com/peluqueriaspebel"
+    },
+    {
+      "id": "aac34197-2725-45d0-95d0-34e86e83e0bb",
+      "name": "Toledo a pie",
+      "image": "/images/sponsors/Toledo a pie.png",
+      "link": "https://www.instagram.com/toledoapierutas"
+    }
+  ],
+  "collaborators": [
+    {
+      "id": "e156dc1c-fe3c-4ba0-82ee-2cb4d506d690",
+      "name": "Alhajas Swing",
+      "image": "/images/collaborators/Alhajas swing.jpg",
+      "link": "https://www.instagram.com/alhajaswingtoledo"
+    },
+    {
+      "id": "5e7f157d-c954-4913-996d-01815c878c82",
+      "name": "Bicicletas Nino",
+      "image": "/images/collaborators/Bicicletas Nino.png",
+      "link": "https://www.instagram.com/nino_garcia18"
+    },
+    {
+      "id": "f7f30d17-4f9a-4d23-b752-2ed4d8ec4b32",
+      "name": "Boom Back",
+      "image": "/images/collaborators/BOOM BACK.jpg",
+      "link": "https://www.instagram.com/boomback_toledo"
+    },
+    {
+      "id": "00ab0067-9527-45f6-bc17-ba0d835d0a33",
+      "name": "Club Tejeril Toledo",
+      "image": "/images/collaborators/CLUB TEJERIL TOLEDO negro.png",
+      "link": "https://www.instagram.com/clubtejeriltoledo"
+    },
+    {
+      "id": "c918204b-805a-4d34-ae36-cc97a867c3d8",
+      "name": "Emocio",
+      "image": "/images/collaborators/Emocio.png",
+      "link": "https://emocio.es"
+    },
+    {
+      "id": "660c2e41-05ed-4492-8c96-05dde98c745f",
+      "name": "Escuela Arte Urbano La Mancha",
+      "image": "/images/collaborators/Escuela Arte Urbano La Mancha.png",
+      "link": "https://www.instagram.com/school_of_urban_art_lamancha"
+    },
+    {
+      "id": "a128fcc1-0c79-4a98-a4b4-fb840bb2d111",
+      "name": "Farmacia 3 Culturas",
+      "image": "/images/collaborators/Farmacia 3 culturas.jpg",
+      "link": "https://www.instagram.com/farmacia3culturas"
+    },
+    {
+      "id": "c9671079-bea8-43ce-815d-e26747ce344c",
+      "name": "FP Imagen y Sonido",
+      "image": "/images/collaborators/FP Imagen y Sonido.jpg",
+      "link": "https://iesalfonsox.es/formacion-profesional-imagen-y-sonido"
+    },
+    {
+      "id": "788a0823-4909-4f75-8664-b975b383b5e0",
+      "name": "Jamakasound",
+      "image": "/images/collaborators/JAMAKASOUND.png",
+      "link": "https://www.instagram.com/jamakasound"
+    },
+    {
+      "id": "1563d484-d133-48d7-bfaf-bf5ab3d491d9",
+      "name": "Krono",
+      "image": "/images/collaborators/KRONO.png",
+      "link": "https://www.instagram.com/krono_tld"
+    },
+    {
+      "id": "9827a8df-d7de-4497-abd0-272fc6be3ff8",
+      "name": "Lady Tea",
+      "image": "/images/collaborators/Lady Tea.jpeg",
+      "link": ""
+    },
+    {
+      "id": "731009d1-0c60-4ef4-97d1-19f39bb013e5",
+      "name": "Liga de Aventureros",
+      "image": "/images/collaborators/Liga de aventureros.jpg",
+      "link": "https://liga-de-aventureros-toletum.fandom.com/es/wiki/Wiki_Liga_de_Aventureros_Toletum"
+    },
+    {
+      "id": "de45f1ba-8f5b-423b-aead-683cca0efecf",
+      "name": "mk2 Cines Luz del Tajo",
+      "image": "/images/collaborators/mk2 cines Luz del Tajo.png",
+      "link": "https://www.mk2cines.es/es/luz-del-tajo-toledo"
+    },
+    {
+      "id": "9df3858a-148d-4f77-9ae4-623d3ec71daa",
+      "name": "Motos Ballesteros",
+      "image": "/images/collaborators/Motos Ballesteros.jpg",
+      "link": "https://www.google.com/maps/search/?api=1&query=MB+Motos+Ballesteros+Calle+Rio+Marches+83+Toledo"
+    },
+    {
+      "id": "6dab757b-c59f-46b0-b768-d070f801ec00",
+      "name": "Neo Kingdom",
+      "image": "/images/collaborators/Neo Kingdom.png",
+      "link": "https://www.instagram.com/neo.kingdom"
+    },
+    {
+      "id": "db211f57-1b0c-4f61-8ccc-e113cb08f5c2",
+      "name": "Paideia",
+      "image": "/images/collaborators/Paideia.jpeg",
+      "link": "https://asociacionpaideia.org"
+    },
+    {
+      "id": "56396179-e38c-48f1-a615-d2116bf3547a",
+      "name": "Plataforma 8M Toledo",
+      "image": "/images/collaborators/PLATAFORMA 8M TOLEDO.png",
+      "link": "https://www.instagram.com/8m_toledo"
+    },
+    {
+      "id": "66696b93-84a7-4ef3-bf51-36aa21e08434",
+      "name": "TopSign",
+      "image": "/images/collaborators/TopSign.jpg",
+      "link": "https://www.topsign.es"
+    }
+  ],
+  "organizers": [
+    {
+      "id": "c157dba8-13a1-422d-9e63-371933a67195",
+      "name": "Asociación de Vecinos El Tajo",
+      "image": "/images/organizators/AV El Tajo.jpg",
+      "link": "https://www.avetajo.es"
     }
   ]
 }

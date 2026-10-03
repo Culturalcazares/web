@@ -7,23 +7,42 @@ const store = useSponsorStore()
 
 <template>
   <div id="sponsors" class="container my-5">
-    <h2 class="fs-1 mb-3">Patrocinadores</h2>
+    <h2 class="fs-1 mb-3">Patrocina</h2>
     <div v-if="store.sponsors && store.sponsors.length > 0">
       <div class="row">
-        <div class="col" v-for="sponsor in store.sponsors" :key="sponsor.id">
-          <a :href="sponsor.link" target="_blank">
-            <img class="img-fluid" src="@/assets/images/logo.png" alt="Patrocinador" />
+        <div
+          class="col-6 col-md-4 d-flex flex-column align-items-center justify-content-center p-3"
+          v-for="sponsor in store.sponsors"
+          :key="sponsor.id"
+        >
+          <a
+            class="sponsor-item d-flex flex-column align-items-center text-center"
+            :href="sponsor.link"
+            target="_blank"
+            rel="noopener noreferrer"
+            :title="sponsor.name"
+          >
+            <img class="img-fluid sponsor-logo" :src="encodeURI(sponsor.image)" :alt="sponsor.name" loading="lazy" />
+            <span class="sponsor-name mt-2">{{ sponsor.name }}</span>
           </a>
         </div>
       </div>
     </div>
-    <div class="row-cols-1 text-center mt-5">
-      <h3>¿Te gustaría ayudar o patrocinar al Culturalcázares?</h3>
-      <p class="mt-3">
-        <RouterLink :to="{ name: 'sponsors' }" class="btn btn-primary">¡Pues claro que sí!</RouterLink>
-      </p>
-    </div>
   </div>
 </template>
 
-<style scoped></style>
+<style scoped>
+.sponsor-logo {
+  max-height: 120px;
+  object-fit: contain;
+}
+
+.sponsor-item {
+  color: inherit;
+  text-decoration: none;
+}
+
+.sponsor-name {
+  font-size: 0.95rem;
+}
+</style>
