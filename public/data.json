@@ -501,7 +501,7 @@
     {
       "id": "5ecf18e9-b73f-46bc-9f18-cc05482e67a3",
       "name": "Fisioterapia Toledo",
-      "image": "/images/sponsors/Fisioterapia Toledo.jpeg",
+      "image": "/images/sponsors/Fisioterapia Toledo.jpg",
       "link": "https://fisioterapiatoledo.es"
     },
     {
@@ -563,8 +563,14 @@
     {
       "id": "a128fcc1-0c79-4a98-a4b4-fb840bb2d111",
       "name": "Farmacia 3 Culturas",
-      "image": "/images/collaborators/Farmacia 3 culturas.jpg",
+      "image": "/images/collaborators/Farmacia 3 culturas.jpeg",
       "link": "https://www.instagram.com/farmacia3culturas"
+    },
+    {
+      "id": "3e8b1f6a-92d4-4c7e-a5b0-6f1d2c9e8a47",
+      "name": "Farmacia Boladiez",
+      "image": "/images/collaborators/Farmacia Boladiez.png",
+      "link": "https://maps.app.goo.gl/mS4abKmKB2CzoKqWA"
     },
     {
       "id": "c9671079-bea8-43ce-815d-e26747ce344c",
@@ -588,12 +594,12 @@
       "id": "9827a8df-d7de-4497-abd0-272fc6be3ff8",
       "name": "Lady Tea",
       "image": "/images/collaborators/Lady Tea.jpeg",
-      "link": ""
+      "link": "https://www.instagram.com/_lady.tea_?stkn=OTMyZ3ZheHEyNm1q"
     },
     {
       "id": "731009d1-0c60-4ef4-97d1-19f39bb013e5",
       "name": "Liga de Aventureros",
-      "image": "/images/collaborators/Liga de aventureros.jpg",
+      "image": "/images/collaborators/Liga de aventureros.png",
       "link": "https://liga-de-aventureros-toletum.fandom.com/es/wiki/Wiki_Liga_de_Aventureros_Toletum"
     },
     {
@@ -613,6 +619,12 @@
       "name": "Neo Kingdom",
       "image": "/images/collaborators/Neo Kingdom.png",
       "link": "https://www.instagram.com/neo.kingdom"
+    },
+    {
+      "id": "b7d24c91-5a3e-4f08-8c6b-1e9a7d3f2b05",
+      "name": "Onda Polígono",
+      "image": "/images/collaborators/Onda Polígono.jpeg",
+      "link": "https://www.ondapoligono.org/"
     },
     {
       "id": "db211f57-1b0c-4f61-8ccc-e113cb08f5c2",
