@@ -372,6 +372,26 @@
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
+      "id": "b3f7a1d2-5e84-4c69-9a0b-7d2e6f1c8a35",
+      "title": "Taller de encuadernación",
+      "organizer": "Wonderland Encuadernaciones",
+      "image": "/images/activities/taller_encuadernacion.jpg",
+      "date": {
+        "start": "2026-10-24T16:00:00",
+        "end": "2026-10-24T18:00:00"
+      },
+      "place": "Zona de talleres",
+      "full": false,
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#33956F"
+        }
+      ],
+      "description": "Conectar con tu parte creativa para crear. Durante el taller vas a aprender a realizar un tipo de encuadernación artesanal con materiales reciclados con tu estilo propio, llevando tu imaginación en las tapas.\n\nSi quieres, puedes traer tus propios materiales para decorar el cuaderno que te llevarás del taller: pegatinas, recortes de revista o periódicos, papel craft…\n\nPúblico objetivo: a partir de 12 años.\nRequisitos: no es obligatorio, pero los asistentes pueden traer pegatinas, recortes de periódico y revistas, etc. para decorar las tapas del cuaderno.\nPlazas: 10. Inscripción anticipada.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
+    },
+    {
       "id": "2788789e-2e42-45cf-9f0f-c5ab421e4485",
       "title": "Bingo",
       "organizer": "AV El Tajo",
