@@ -237,7 +237,7 @@
     {
       "id": "4610eb09-8dd3-485c-a6e9-76ff3c492c63",
       "title": "Taller de lindy hop",
-      "organizer": "Alhaja Swing Toledo",
+      "organizer": "Alhajas Swing Toledo",
       "image": "/images/activities/taller_lindy_hop.jpg",
       "date": {
         "start": "2026-10-24T12:00:00",
@@ -272,7 +272,7 @@
         }
       ],
       "description": "Trae tu bici el 24 de octubre al Parque de los Alcázares y demuestra tu habilidad sobre ruedas en nuestra gymkana ciclista.\n\n¡Lo pasarás en grande!\n\nPúblico objetivo: de 8 a 12 años.\nRequisitos: traer bici.\nPlazas: 20. Inscripción anticipada.",
-      "link": "https://drive.google.com/file/d/1z82XcVWiWDJG6acM_wKZ3RNav--iVzbJ/view?usp=sharing"
+      "link": "https://drive.google.com/file/d/11iMWHmiRxueeSVmk252II6Mfd6ROLL0a/view?usp=sharing"
     },
     {
       "id": "d4f09dd0-7034-400b-92a3-939f9d10911a",
@@ -315,7 +315,7 @@
     {
       "id": "a42b341f-9839-40e0-94e1-5fab26afceb3",
       "title": "Social de Lindy Hop",
-      "organizer": "Alhaja Swing Toledo",
+      "organizer": "Alhajas Swing Toledo",
       "image": "/images/activities/social-swing.jpeg",
       "date": {
         "start": "2026-10-24T16:00:00",
@@ -381,7 +381,7 @@
         "end": "2026-10-24T18:00:00"
       },
       "place": "Zona de talleres",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Taller",
