@@ -544,12 +544,6 @@
       "link": "https://www.instagram.com/fisioterapiamiguelangeltoledo"
     },
     {
-      "id": "5ecf18e9-b73f-46bc-9f18-cc05482e67a3",
-      "name": "Fisioterapia Toledo",
-      "image": "/images/sponsors/Fisioterapia Toledo.jpg",
-      "link": "https://fisioterapiatoledo.es"
-    },
-    {
       "id": "a91f4b6e-2d58-4c03-8e7a-6b5c0d3f1e28",
       "name": "Habitol",
       "image": "/images/sponsors/Habitol.jpeg",
@@ -566,12 +560,6 @@
       "name": "Peluquería Pebel",
       "image": "/images/sponsors/Peluqueria Pebel.png",
       "link": "https://www.facebook.com/peluqueriaspebel"
-    },
-    {
-      "id": "4b8e2f7a-6c13-4d95-a0e8-9f1b3c5d7e26",
-      "name": "Refiauto",
-      "image": "/images/sponsors/Refiauto.png",
-      "link": ""
     },
     {
       "id": "aac34197-2725-45d0-95d0-34e86e83e0bb",
@@ -630,6 +618,12 @@
       "link": "https://maps.app.goo.gl/mS4abKmKB2CzoKqWA"
     },
     {
+      "id": "5ecf18e9-b73f-46bc-9f18-cc05482e67a3",
+      "name": "Fisioterapia Toledo",
+      "image": "/images/collaborators/Fisioterapia Toledo.jpg",
+      "link": "https://fisioterapiatoledo.es"
+    },
+    {
       "id": "c9671079-bea8-43ce-815d-e26747ce344c",
       "name": "FP Imagen y Sonido",
       "image": "/images/collaborators/FP Imagen y Sonido.jpg",
@@ -663,7 +657,7 @@
       "id": "2f6d8b3a-4e17-4c92-b8a5-0d9e7c1f3a64",
       "name": "MAKERS Toledo",
       "image": "/images/collaborators/MAKERS_Toledo.jpeg",
-      "link": "https://www.google.com/maps/search/?api=1&query=MAKERS+Toledo"
+      "link": ""
     },
     {
       "id": "de45f1ba-8f5b-423b-aead-683cca0efecf",
@@ -700,6 +694,12 @@
       "name": "Plataforma 8M Toledo",
       "image": "/images/collaborators/PLATAFORMA 8M TOLEDO.png",
       "link": "https://www.instagram.com/8m_toledo"
+    },
+    {
+      "id": "4b8e2f7a-6c13-4d95-a0e8-9f1b3c5d7e26",
+      "name": "Refiauto",
+      "image": "/images/collaborators/Refiauto.png",
+      "link": ""
     },
     {
       "id": "66696b93-84a7-4ef3-bf51-36aa21e08434",
