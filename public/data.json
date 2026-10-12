@@ -177,7 +177,7 @@
     {
       "id": "903b03b4-0588-43ea-be50-aba9d03e2b8e",
       "title": "Taller de pintura de miniaturas (mañana)",
-      "organizer": "AV El Tajo",
+      "organizer": "MAKERS Toledo",
       "image": "/images/activities/Taller_Miniaturas.jpg",
       "date": {
         "start": "2026-10-24T11:00:00",
@@ -373,7 +373,7 @@
     {
       "id": "6223ba52-8249-4382-9202-a9ffd7249964",
       "title": "Taller de pintura de miniaturas (tarde)",
-      "organizer": "AV El Tajo",
+      "organizer": "MAKERS Toledo",
       "image": "/images/activities/Taller_Miniaturas.jpg",
       "date": {
         "start": "2026-10-24T16:00:00",
@@ -658,6 +658,12 @@
       "name": "Liga de Aventureros",
       "image": "/images/collaborators/Liga de aventureros.png",
       "link": "https://liga-de-aventureros-toletum.fandom.com/es/wiki/Wiki_Liga_de_Aventureros_Toletum"
+    },
+    {
+      "id": "2f6d8b3a-4e17-4c92-b8a5-0d9e7c1f3a64",
+      "name": "MAKERS Toledo",
+      "image": "/images/collaborators/MAKERS_Toledo.jpeg",
+      "link": "https://www.google.com/maps/search/?api=1&query=MAKERS+Toledo"
     },
     {
       "id": "de45f1ba-8f5b-423b-aead-683cca0efecf",
