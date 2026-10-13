@@ -23,7 +23,7 @@
     {
       "id": "53c01fb3-2e81-4084-af44-35d5a75ef8cd",
       "title": "Concurso de pintura en vivo",
-      "organizer": "AV El Tajo",
+      "organizer": "MAKERS Toledo",
       "image": "/images/activities/pintura.png",
       "date": {
         "start": "2026-10-24T10:00:00",
@@ -37,12 +37,13 @@
           "color": "#5C7CB6"
         }
       ],
-      "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nRequisitos: traer caballete, pinceles y pinturas.\nBases por determinar."
+      "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nRequisitos: traer caballete, pinceles y pinturas.\nLa inscripción será gratuita. Podrá realizarse previamente mediante formulario online, o presencial el mismo día del concurso de 10:00 a 12:00 horas.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeBcE7ypyPMVoRYleBiRiElyFxQtZ3oakrixHyulGphYhWDeQ/viewform?usp=sharing&ouid=101452988913813054607"
     },
     {
       "id": "c7575af9-2a92-4c6c-b5ad-6c4093d8ae17",
       "title": "Concurso de fotografía",
-      "organizer": "AV El Tajo",
+      "organizer": "MAKERS Toledo",
       "image": "/images/activities/fotografia.jpg",
       "date": {
         "start": "2026-10-24T10:00:00",
@@ -68,7 +69,7 @@
         "end": "2026-10-24T18:00:00"
       },
       "place": "Zona Underground",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Exhibición",
@@ -296,7 +297,7 @@
     {
       "id": "d4f09dd0-7034-400b-92a3-939f9d10911a",
       "title": "Juegos de mesa",
-      "organizer": "Neo Kingdom",
+      "organizer": "Neo kingdom, Bellota Games y Netherware",
       "image": "/images/activities/juegos_de_mesa.jpg",
       "date": {
         "start": "2026-10-24T12:00:00",
@@ -310,7 +311,7 @@
           "color": "#EEC82D"
         }
       ],
-      "description": "Tanto si lo que te apasiona es el parchís como si te gusta discutir con tus amigos por los recursos en el Catán, Neo Kingdom te espera en el Culturalcázares Park Fest con sus juegos de mesa.\n\nPásate por el espacio que hemos reservado para darle a las cartas, a las fichas o a los dados. ¡No te lo pierdas!\n\nPúblico objetivo: todos los públicos.\nRequisitos: ninguno.\nSin límite de participantes y sin inscripción previa."
+      "description": "Tanto si lo que te apasiona es el parchís como si te gusta discutir con tus amigos por los recursos en el Catán, ¡el Culturalcázares Park Fest te espera con un montón de juegos de mesa!\nAdemás, nos visitarán Neokingdom, Bellota Games y Netherware, que vienen dispuestos a hacer las delicias de los más jugones.\nPásate por el espacio que hemos reservado para darle a las cartas, a las fichas o a los dados. ¡Ven a jugar, descubre nuevos juegos y prepárate para echar unas partidas épicas!\nSin límite de participantes y sin inscripción previa."
     },
     {
       "id": "c550276f-141c-49a0-8093-e67f02bf2459",
@@ -380,7 +381,7 @@
         "end": "2026-10-24T18:00:00"
       },
       "place": "Geek Zone",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Taller",
@@ -576,6 +577,12 @@
       "link": "https://www.instagram.com/alhajaswingtoledo"
     },
     {
+      "id": "7b23e841-9a1c-4b68-8a9d-5f0e3c1d4b22",
+      "name": "Bellota Games",
+      "image": "/images/collaborators/Bellota Games.png",
+      "link": "https://www.instagram.com/bellota_games_"
+    },
+    {
       "id": "5e7f157d-c954-4913-996d-01815c878c82",
       "name": "Bicicletas Nino",
       "image": "/images/collaborators/Bicicletas Nino.png",
@@ -608,7 +615,7 @@
     {
       "id": "a128fcc1-0c79-4a98-a4b4-fb840bb2d111",
       "name": "Farmacia 3 Culturas",
-      "image": "/images/collaborators/Farmacia 3 culturas.jpeg",
+      "image": "/images/collaborators/Farmacia 3 culturas.png",
       "link": "https://www.instagram.com/farmacia3culturas"
     },
     {
@@ -624,6 +631,12 @@
       "link": "https://fisioterapiatoledo.es"
     },
     {
+      "id": "e4a62d19-8b5c-4f73-9c01-2e7d8f4a3b65",
+      "name": "Frujuca",
+      "image": "/images/collaborators/Frujuca.jpeg",
+      "link": "#"
+    },
+    {
       "id": "c9671079-bea8-43ce-815d-e26747ce344c",
       "name": "FP Imagen y Sonido",
       "image": "/images/collaborators/FP Imagen y Sonido.jpg",
@@ -634,6 +647,12 @@
       "name": "Jamakasound",
       "image": "/images/collaborators/JAMAKASOUND.png",
       "link": "https://www.instagram.com/jamakasound"
+    },
+    {
+      "id": "9d1f8b34-5c72-4a60-b83e-1f2a4c6e9d07",
+      "name": "Proyecto Komorebi",
+      "image": "/images/collaborators/Komorebi.png",
+      "link": "https://proyectokomorebi.es/"
     },
     {
       "id": "1563d484-d133-48d7-bfaf-bf5ab3d491d9",
@@ -678,6 +697,12 @@
       "link": "https://www.instagram.com/neo.kingdom"
     },
     {
+      "id": "3f8d1c92-6a4e-4e71-b285-0c9f7a3e5b18",
+      "name": "Netherware",
+      "image": "/images/collaborators/Netherware.png",
+      "link": "https://www.instagram.com/netherware/"
+    },
+    {
       "id": "b7d24c91-5a3e-4f08-8c6b-1e9a7d3f2b05",
       "name": "Onda Polígono",
       "image": "/images/collaborators/Onda Polígono.jpeg",
@@ -702,10 +727,22 @@
       "link": ""
     },
     {
+      "id": "5a8e1b23-4d7f-4c92-a1b5-8e3d6f0c7a91",
+      "name": "DJ Sabi Calero",
+      "image": "/images/collaborators/DJ Sabi Calero.png",
+      "link": "https://www.instagram.com/sabi_calerodj/"
+    },
+    {
       "id": "66696b93-84a7-4ef3-bf51-36aa21e08434",
       "name": "TopSign",
       "image": "/images/collaborators/TopSign.jpg",
       "link": "https://www.topsign.es"
+    },
+    {
+      "id": "8c2d4e19-7b3a-4f56-9e01-3a5f8b2d6c74",
+      "name": "Wonderland encuadernaciones",
+      "image": "/images/collaborators/Wonderland.jpeg",
+      "link": "https://www.instagram.com/wonderland_wonderart/"
     }
   ],
   "organizers": [
