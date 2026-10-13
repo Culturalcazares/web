@@ -42,7 +42,7 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
         <div class="col-md-8">
           <div class="card border-0 bg-light rounded-4 p-4">
             <h5 class="fw-bold mb-3">📋 ¿Cómo funciona?</h5>
-            <ol class="mb-0 ps-3">
+            <ol class="mb-3 ps-3">
               <li class="mb-3">
                 <strong>Haz tu donación</strong> eligiendo el paquete que más te guste y pulsando el
                 botón "Donar".
@@ -68,6 +68,11 @@ const activeTab = ref<'crowdfunding' | 'empresas'>('crowdfunding')
                 </ul>
               </li>
             </ol>
+            <div class="alert alert-warning mb-0" role="alert">
+              <strong>⚠️ Importante:</strong> Las recompensas de las donaciones hechas a partir del
+              <strong>15 de octubre</strong> se podrán recoger después del festival (te enviaremos
+              un email).
+            </div>
           </div>
         </div>
       </div>
