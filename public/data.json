@@ -37,7 +37,7 @@
           "color": "#5C7CB6"
         }
       ],
-      "description": "Para demostrar que el parque es un sitio tan bueno para dar rienda suelta a tu creatividad, queremos invitarte a participar en este concurso de pintura en vivo.\n\nTrae tu caballete, pinceles y paleta de pinturas para pintar un cuadro a lo largo del día. ¡Desde las 10:00 hasta las 17:00!\n\nRequisitos: traer caballete, pinceles y pinturas.\nLa inscripción será gratuita. Podrá realizarse previamente mediante formulario online, o presencial el mismo día del concurso de 10:00 a 12:00 horas.",
+      "description": "Para demostrar que el parque es un lugar perfecto para dar rienda suelta a tu creatividad, queremos invitarte a participar en nuestro concurso de pintura en vivo, organizado por Makers Toledo. Busca tu rincón favorito, prepara tus pinturas y deja que la inspiración haga el resto. ¡Tendrás desde las 10:00 hasta las 17:00 para crear tu obra!\n\nRequisitos: traer tu propia pinturas y soporte para pintar.\n\nInscripción gratuita. Puedes inscribirte previamente a través del formulario online o presencialmente el mismo día del concurso, de 10:00 a 12:00 h.",
       "link": "https://docs.google.com/forms/d/e/1FAIpQLSeBcE7ypyPMVoRYleBiRiElyFxQtZ3oakrixHyulGphYhWDeQ/viewform?usp=sharing&ouid=101452988913813054607"
     },
     {
@@ -57,7 +57,8 @@
           "color": "#5C7CB6"
         }
       ],
-      "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del evento de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26.\n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar."
+      "description": "¿Crees que tus fotos no tienen parangón? ¡Demuéstralo participando en nuestro concurso de fotografía!\n\nHaz fotos el día del evento de las distintas actividades y compártelas en Instagram etiquetando a la cuenta del festival y con el hashtag #fotoCulturalcazares26.\n\n¡En los días siguientes al festival anunciaremos en redes al ganador del premio!\n\nBases por determinar.",
+      "link": "https://drive.google.com/file/d/1aEP8BE5wqbvxQqRzbAw8gbXjo-TyF_-N/view?usp=sharing"
     },
     {
       "id": "8352c6a5-c45f-4d76-a6f7-cf873cafa581",
@@ -312,6 +313,45 @@
         }
       ],
       "description": "Tanto si lo que te apasiona es el parchís como si te gusta discutir con tus amigos por los recursos en el Catán, ¡el Culturalcázares Park Fest te espera con un montón de juegos de mesa!\nAdemás, nos visitarán Neokingdom, Bellota Games y Netherware, que vienen dispuestos a hacer las delicias de los más jugones.\nPásate por el espacio que hemos reservado para darle a las cartas, a las fichas o a los dados. ¡Ven a jugar, descubre nuevos juegos y prepárate para echar unas partidas épicas!\nSin límite de participantes y sin inscripción previa."
+    },
+    {
+      "id": "656d880d-be5d-4d99-b410-b1d390c5492c",
+      "title": "Batalla de gallos",
+      "organizer": "Boomback",
+      "image": "/images/activities/default.png",
+      "date": {
+        "start": "2026-10-24T12:00:00",
+        "end": "2026-10-24T18:00:00"
+      },
+      "place": "Zona Underground",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concurso",
+          "color": "#5C7CB6"
+        }
+      ],
+      "description": "Si te interesa el rap, ya sea improvisado o no, ven a disfrutar y a participar en nuestro micro abierto y en la batalla de gallos.\n\nPúblico objetivo: mayores de 16 años.\nRequisitos: tener algo de experiencia improvisando.\nSin límite de participantes. Inscripción presencial."
+    },
+    {
+      "id": "e4a1f7ad-c7c4-476c-9f01-ab4ba547cfe2",
+      "title": "Taller de radio",
+      "organizer": "Onda Polígono",
+      "image": "/images/activities/taller_radio.jpeg",
+      "date": {
+        "start": "2026-10-24T13:00:00",
+        "end": "2026-10-24T14:00:00"
+      },
+      "place": "Zona de talleres",
+      "full": false,
+      "tags": [
+        {
+          "text": "Taller",
+          "color": "#33956F"
+        }
+      ],
+      "description": "Si eres una persona radiante, este es tu taller.\n\nA lo largo de esta hora te introduciremos en la radio comunitaria, los elementos de una emisora, el lenguaje radiofónico, la locución, los programas de radio y el podcast.\n\n¡No te lo pierdas!\n\nPúblico objetivo: a partir de 12 años.\nPlazas: 10. Inscripción anticipada.",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSfKlzkByAjtm5mTT5JJ61ruJgU8JD-oBLz3xiv9rERSKL_9Jg/viewform?usp=dialog"
     },
     {
       "id": "c550276f-141c-49a0-8093-e67f02bf2459",
