@@ -401,7 +401,7 @@
         "end": "2026-10-24T17:00:00"
       },
       "place": "Pista de fútbol",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Taller",
