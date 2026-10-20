@@ -90,7 +90,7 @@
         "end": "2026-10-24T12:00:00"
       },
       "place": "Aparcamiento de bicis",
-      "full": false,
+      "full": true,
       "tags": [
         {
           "text": "Taller",
