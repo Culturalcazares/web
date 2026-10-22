@@ -783,6 +783,18 @@
       "name": "Wonderland encuadernaciones",
       "image": "/images/collaborators/Wonderland.jpeg",
       "link": "https://www.instagram.com/wonderland_wonderart/"
+    },
+    {
+      "id": "e7c1a842-4f12-4c28-9a3d-6b5e1a2f9c84",
+      "name": "Cervezas Speranto",
+      "image": "/images/collaborators/Cervezas Speranto.png",
+      "link": "https://cervezasperanto.es/"
+    },
+    {
+      "id": "3b8a1c9e-5f21-4d7a-8e2b-1c4d9e7a2f58",
+      "name": "Grafox",
+      "image": "/images/collaborators/Grafox.png",
+      "link": "https://www.grafox.es/"
     }
   ],
   "organizers": [
