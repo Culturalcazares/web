@@ -373,6 +373,25 @@
       "description": "¡¿Pensabais que nos íbamos a olvidar del ñamñam?!\n\nA mediodía y después de una mañana intensa llena de actividades, acércate a la zona del escenario para reponer fuerzas con nuestra Paella Popular preparada por la Asociación de Vecinos. El momento perfecto para compartir plato, risas y buen ambiente con todo el barrio.\n\n¡Ven con hambre, ganas de disfrutar y pilla tu plato de paella!\n\nPúblico objetivo: todos los públicos.\nRequisitos: hambre.\nSin límite de participantes y sin inscripción previa."
     },
     {
+      "id": "1d51b58a-9d34-453e-a064-6d9b184a494f",
+      "title": "DJ Sabi Calero",
+      "organizer": "AV El Tajo",
+      "image": "/images/activities/sabi_calero.jpeg",
+      "date": {
+        "start": "2026-10-24T14:00:00",
+        "end": "2026-10-24T16:00:00"
+      },
+      "place": "Escenario",
+      "full": false,
+      "tags": [
+        {
+          "text": "Concierto",
+          "color": "#8E5BA8"
+        }
+      ],
+      "description": "¡El mejor ritmo y la mejor música llegan al Culturalcázares Park Fest de la mano de DJ Sabi Calero! 🎧🔥\n\nPrepárate para bailar y disfrutar de una sesión llena de energía, temazos y mezclas para ambientar la sobremesa en el parque.\n\n¡Acércate al escenario y no pares de bailar!\n\nPuedes seguir su trabajo en Instagram: @sabi_calerodj"
+    },
+    {
       "id": "a42b341f-9839-40e0-94e1-5fab26afceb3",
       "title": "Social de Lindy Hop",
       "organizer": "Alhajas Swing Toledo",
@@ -776,6 +795,12 @@
       "name": "Grafox",
       "image": "/images/collaborators/Grafox.png",
       "link": "https://www.grafox.es/"
+    },
+    {
+      "id": "17c25894-68bc-4a27-b9d1-19c44ef49cb1",
+      "name": "Unión Popular de Estudiantes (UPE)",
+      "image": "/images/collaborators/UPE.png",
+      "link": "https://www.instagram.com/uniondeestudiantees/"
     }
   ],
   "organizers": [
